@@ -1,0 +1,3558 @@
+{
+  "default/core": {
+    "logius": {
+      "color": {
+        "grijs": {
+          "100": {
+            "value": "#fbfbfb",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f3f3f3",
+            "type": "color",
+            "description": "Light mode only"
+          },
+          "300": {
+            "value": "#e6e6e6",
+            "type": "color",
+            "description": "Light mode only"
+          },
+          "400": {
+            "value": "#a7a7a7",
+            "type": "color"
+          },
+          "500": {
+            "value": "#696969",
+            "type": "color"
+          },
+          "600": {
+            "value": "#383838",
+            "type": "color",
+            "description": "dark mode only\n"
+          },
+          "700": {
+            "value": "#282828",
+            "type": "color"
+          },
+          "800": {
+            "value": "#1d1d1d",
+            "type": "color",
+            "description": "dark mode only\n"
+          },
+          "900": {
+            "value": "#171717",
+            "type": "color",
+            "description": "dark mode only\n"
+          }
+        },
+        "zwart": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "wit": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "none": {
+          "value": "#ffffff00",
+          "type": "color"
+        },
+        "lichtblauw": {
+          "100": {
+            "value": "#eef7fb",
+            "type": "color"
+          },
+          "200": {
+            "value": "#ddeff8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#8fcae7",
+            "type": "color"
+          }
+        },
+        "violet": {
+          "100": {
+            "value": "#f2d9e7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e5b3d0",
+            "type": "color"
+          },
+          "300": {
+            "value": "#a90061",
+            "type": "color"
+          },
+          "400": {
+            "value": "#52002f",
+            "type": "color"
+          }
+        },
+        "paars": {
+          "100": {
+            "value": "#e3dce7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#c6b9cf",
+            "type": "color"
+          },
+          "300": {
+            "value": "#42145f",
+            "type": "color"
+          },
+          "400": {
+            "value": "#3B1255",
+            "type": "color"
+          }
+        },
+        "hemelblauw": {
+          "100": {
+            "value": "#d9ebf7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b3d7ee",
+            "type": "color"
+          },
+          "300": {
+            "value": "#007bc7",
+            "type": "color"
+          },
+          "400": {
+            "value": "#00436C",
+            "type": "color"
+          }
+        },
+        "donkerblauw": {
+          "100": {
+            "value": "#d9e8f0",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b3d2e1",
+            "type": "color"
+          },
+          "300": {
+            "value": "#01689b",
+            "type": "color"
+          },
+          "400": {
+            "value": "#013F5E",
+            "type": "color"
+          }
+        },
+        "mintgroen": {
+          "100": {
+            "value": "#eaf8f4",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d6f2e9",
+            "type": "color"
+          },
+          "300": {
+            "value": "#76d2b6",
+            "type": "color"
+          }
+        },
+        "mosgroen": {
+          "100": {
+            "value": "#ebebd9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d6d7b3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#777b00",
+            "type": "color"
+          }
+        },
+        "groen": {
+          "100": {
+            "value": "#e1eddb",
+            "type": "color"
+          },
+          "200": {
+            "value": "#c4dbb6",
+            "type": "color"
+          },
+          "300": {
+            "value": "#39870c",
+            "type": "color"
+          },
+          "400": {
+            "value": "#004B17",
+            "type": "color"
+          }
+        },
+        "donkergroen": {
+          "100": {
+            "value": "#dfe6e1",
+            "type": "color"
+          },
+          "200": {
+            "value": "#becdc3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#275937",
+            "type": "color"
+          }
+        },
+        "bruin": {
+          "100": {
+            "value": "#efeada",
+            "type": "color"
+          },
+          "200": {
+            "value": "#dfd4b6",
+            "type": "color"
+          },
+          "300": {
+            "value": "#94710a",
+            "type": "color"
+          }
+        },
+        "donkerbruin": {
+          "100": {
+            "value": "#e8e0df",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d1c2be",
+            "type": "color"
+          },
+          "300": {
+            "value": "#673327",
+            "type": "color"
+          }
+        },
+        "geel": {
+          "100": {
+            "value": "#fefbdd",
+            "type": "color"
+          },
+          "200": {
+            "value": "#fdf6bc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#f9e11e",
+            "type": "color"
+          }
+        },
+        "donkergeel": {
+          "100": {
+            "value": "#fff4db",
+            "type": "color"
+          },
+          "200": {
+            "value": "#ffe9b8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#ffb612",
+            "type": "color"
+          },
+          "400": {
+            "value": "#BF880D",
+            "type": "color"
+          }
+        },
+        "oranje": {
+          "100": {
+            "value": "#fbead9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f6d4b3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#e17000",
+            "type": "color"
+          },
+          "400": {
+            "value": "#B35900",
+            "type": "color"
+          }
+        },
+        "rood": {
+          "100": {
+            "value": "#f9dfdd",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f2bfbc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d52b1e",
+            "type": "color"
+          },
+          "400": {
+            "value": "#542621",
+            "type": "color"
+          }
+        },
+        "roze": {
+          "100": {
+            "value": "#fdeff8",
+            "type": "color"
+          },
+          "200": {
+            "value": "#fbdef0",
+            "type": "color"
+          },
+          "300": {
+            "value": "#f092cd",
+            "type": "color"
+          }
+        },
+        "robijnrood": {
+          "100": {
+            "value": "#f7d9e7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#efb3ce",
+            "type": "color"
+          },
+          "300": {
+            "value": "#ca005d",
+            "type": "color"
+          }
+        }
+      },
+      "border-radius": {
+        "default": {
+          "value": "4",
+          "type": "borderRadius"
+        },
+        "circle": {
+          "value": "50%",
+          "type": "borderRadius"
+        },
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        }
+      },
+      "font-family": {
+        "default": {
+          "value": "RijksoverheidSansWebText",
+          "type": "fontFamilies"
+        }
+      },
+      "font-size": {
+        "s": {
+          "value": "16",
+          "type": "fontSizes"
+        },
+        "m": {
+          "value": "18",
+          "type": "fontSizes"
+        },
+        "l": {
+          "value": "22",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "26",
+          "type": "fontSizes"
+        },
+        "2xl": {
+          "value": "40",
+          "type": "fontSizes"
+        }
+      },
+      "font": {
+        "line-height": {
+          "s": {
+            "value": "24",
+            "type": "lineHeights"
+          },
+          "m": {
+            "value": "28",
+            "type": "lineHeights"
+          },
+          "l": {
+            "value": "32",
+            "type": "lineHeights"
+          },
+          "xl": {
+            "value": "36",
+            "type": "lineHeights"
+          },
+          "2xl": {
+            "value": "56",
+            "type": "lineHeights"
+          }
+        }
+      },
+      "border-width": {
+        "default": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "m": {
+          "value": "2",
+          "type": "borderWidth"
+        },
+        "none": {
+          "value": "0",
+          "type": "borderWidth"
+        }
+      },
+      "shadow": {
+        "default": {
+          "value": {
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0",
+            "color": "#00000025",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "space": {
+        "0-x": {
+          "value": "{logius.space.1-x}*0",
+          "type": "dimension"
+        },
+        "025-x": {
+          "value": "{logius.space.1-x}*0.25",
+          "type": "dimension"
+        },
+        "05-x": {
+          "value": "{logius.space.1-x}*0.5",
+          "type": "dimension"
+        },
+        "1-x": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "105-x": {
+          "value": "{logius.space.1-x}*1.5",
+          "type": "dimension"
+        },
+        "2-x": {
+          "value": "{logius.space.1-x}*2",
+          "type": "dimension"
+        },
+        "3-x": {
+          "value": "{logius.space.1-x}*3",
+          "type": "dimension"
+        },
+        "4-x": {
+          "value": "{logius.space.1-x}*4",
+          "type": "dimension"
+        },
+        "5-x": {
+          "value": "{logius.space.1-x}*5",
+          "type": "dimension"
+        },
+        "6-x": {
+          "value": "{logius.space.1-x}*6",
+          "type": "dimension"
+        },
+        "7-x": {
+          "value": "{logius.space.1-x}*7",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "default/semantic": {
+    "logius": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.grijs.700}",
+          "type": "color",
+          "description": "Primary text, icons and strong borders"
+        },
+        "background": {
+          "value": "{logius.color.wit}",
+          "type": "color",
+          "description": "Background"
+        },
+        "border": {
+          "value": "{logius.color.grijs.500}",
+          "type": "color"
+        },
+        "canvas": {
+          "value": "{logius.color.grijs.200}",
+          "type": "color",
+          "description": "The background of the webpage"
+        },
+        "onEmphasis": {
+          "foreground": {
+            "value": "{logius.color.wit}",
+            "type": "color",
+            "description": "Text on stong backgrounds. Eg text on the brand color or the footer text"
+          }
+        },
+        "subdued": {
+          "foreground": {
+            "value": "{logius.color.grijs.500}",
+            "type": "color",
+            "description": "Subdued text and icons"
+          },
+          "background": {
+            "value": "{logius.color.grijs.200}",
+            "type": "color",
+            "description": "Subdued background"
+          },
+          "border": {
+            "value": "{logius.color.grijs.400}",
+            "type": "color",
+            "description": "Subdued border"
+          }
+        },
+        "hover": {
+          "background": {
+            "value": "{logius.color.grijs.300}",
+            "type": "color",
+            "description": "Default hover background color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{logius.color.groen.300}",
+            "type": "color",
+            "description": "Change this color to your brand"
+          },
+          "subdued": {
+            "value": "{logius.color.groen.100}",
+            "type": "color",
+            "description": "Change this color to your brand"
+          },
+          "hover": {
+            "value": "{logius.color.groen.400}",
+            "type": "color",
+            "description": "Change this color to your brand"
+          }
+        },
+        "feedback": {
+          "success": {
+            "default": {
+              "value": "{logius.color.groen.300}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{logius.color.groen.100}",
+              "type": "color"
+            }
+          },
+          "info": {
+            "default": {
+              "value": "{logius.color.hemelblauw.300}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{logius.color.hemelblauw.100}",
+              "type": "color"
+            }
+          },
+          "error": {
+            "default": {
+              "value": "{logius.color.rood.300}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{logius.color.rood.100}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "default": {
+              "value": "{logius.color.donkergeel.300}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{logius.color.donkergeel.100}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "space": {
+        "listItem": {
+          "value": "{logius.space.105-x} {logius.space.2-x}",
+          "type": "spacing"
+        },
+        "sheet": {
+          "value": "{logius.space.4-x} {logius.space.4-x}",
+          "type": "spacing"
+        },
+        "icon-side": {
+          "value": "{logius.space.105-x}",
+          "type": "spacing"
+        },
+        "compensation-height": {
+          "default": {
+            "value": "10",
+            "type": "spacing",
+            "description": "Vertical-padding om items 48px hoog te maken. \n\nBijvoorbeeld: de button, checkboxes en radiobuttons met label & de accordion\n\nDeze items moeten in de code 8px spacing krijgen, met een minimum height van 48px wat met font-size-m(18px) met een line-height van 26px resulteert in 10px op desktop en 12px op mobiel. Dit is echter niet mogelijk in Figma."
+          },
+          "small": {
+            "value": "{logius.space.025-x}",
+            "type": "spacing",
+            "description": "Vertical-spacing om items 32px hoog te maken. \n\nBijvoorbeeld: de small button, de radiobutton & checkboxes met een label."
+          },
+          "icon": {
+            "value": "6",
+            "type": "spacing"
+          }
+        }
+      },
+      "size": {
+        "2xs": {
+          "value": "{logius.space.2-x}",
+          "type": "sizing"
+        },
+        "xs": {
+          "value": "{logius.space.3-x}",
+          "type": "sizing"
+        },
+        "s": {
+          "value": "{logius.space.4-x}",
+          "type": "sizing"
+        },
+        "m": {
+          "value": "{logius.space.6-x}",
+          "type": "sizing"
+        }
+      },
+      "icon-size": {
+        "default": {
+          "value": "{logius.space.2-x}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{logius.space.3-x}",
+          "type": "sizing"
+        }
+      }
+    },
+    "font": {
+      "body": {
+        "s-400": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Regular",
+            "lineHeight": "{logius.font.line-height.s}",
+            "fontSize": "{logius.font-size.s}"
+          },
+          "type": "typography"
+        },
+        "s-700": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Bold",
+            "lineHeight": "{logius.font.line-height.s}",
+            "fontSize": "{logius.font-size.s}"
+          },
+          "type": "typography"
+        },
+        "m-400": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Regular",
+            "lineHeight": "{logius.font.line-height.m}",
+            "fontSize": "{logius.font-size.m}"
+          },
+          "type": "typography"
+        },
+        "m-700": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Bold",
+            "lineHeight": "{logius.font.line-height.m}",
+            "fontSize": "{logius.font-size.m}"
+          },
+          "type": "typography"
+        },
+        "l-400": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Regular",
+            "lineHeight": "{logius.font.line-height.l}",
+            "fontSize": "{logius.font-size.l}"
+          },
+          "type": "typography"
+        },
+        "l-700": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Bold",
+            "lineHeight": "{logius.font.line-height.l}",
+            "fontSize": "{logius.font-size.l}"
+          },
+          "type": "typography"
+        }
+      },
+      "paragraph": {
+        "default": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        },
+        "lead": {
+          "value": "{font.body.l-400}",
+          "type": "typography"
+        }
+      },
+      "heading": {
+        "level-4": {
+          "700": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Bold",
+              "lineHeight": "{logius.font.line-height.m}",
+              "fontSize": "{logius.font-size.m}"
+            },
+            "type": "typography"
+          }
+        },
+        "level-3": {
+          "400": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Regular",
+              "lineHeight": "{logius.font.line-height.l}",
+              "fontSize": "{logius.font-size.l}"
+            },
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Bold",
+              "lineHeight": "{logius.font.line-height.l}",
+              "fontSize": "{logius.font-size.l}"
+            },
+            "type": "typography"
+          }
+        },
+        "level-2": {
+          "400": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Regular",
+              "lineHeight": "{logius.font.line-height.xl}",
+              "fontSize": "{logius.font-size.xl}"
+            },
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Bold",
+              "lineHeight": "{logius.font.line-height.xl}",
+              "fontSize": "{logius.font-size.xl}"
+            },
+            "type": "typography"
+          }
+        },
+        "level-1": {
+          "400": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Regular",
+              "lineHeight": "{logius.font.line-height.2xl}",
+              "fontSize": "{logius.font-size.2xl}"
+            },
+            "type": "typography"
+          },
+          "700": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Bold",
+              "lineHeight": "{logius.font.line-height.2xl}",
+              "fontSize": "{logius.font-size.2xl}"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    }
+  },
+  "component/button": {
+    "button": {
+      "color": {
+        "primary": {
+          "foreground": {
+            "value": "{logius.color.onEmphasis.foreground}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{logius.color.brand.default}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.none}",
+            "type": "color"
+          },
+          "hover": {
+            "background": {
+              "value": "{logius.color.brand.hover}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "foreground": {
+              "value": "{logius.color.subdued.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.subdued.background}",
+              "type": "color"
+            }
+          }
+        },
+        "tertiary": {
+          "foreground": {
+            "value": "{logius.color.brand.default}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{logius.color.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.none}",
+            "type": "color"
+          },
+          "hover": {
+            "foreground": {
+              "value": "{logius.color.brand.hover}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.brand.subdued}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "foreground": {
+              "value": "{button.color.primary.disabled.foreground}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "foreground": {
+            "value": "{logius.color.brand.default}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{logius.color.background}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.brand.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "foreground": {
+              "value": "{button.color.primary.disabled.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{button.color.primary.disabled.background}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{button.color.primary.disabled.background}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "foreground": {
+              "value": "{logius.color.brand.hover}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.brand.subdued}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{logius.color.brand.hover}",
+              "type": "color"
+            }
+          }
+        },
+        "loading": {
+          "foreground": {
+            "value": "{logius.color.none}",
+            "type": "color"
+          }
+        }
+      },
+      "icon-none": {
+        "value": {
+          "verticalPadding": "{button.space.vertical-padding}",
+          "horizontalPadding": "{button.space.padding-left}",
+          "borderRadius": "{button.border-radius}"
+        },
+        "type": "composition",
+        "description": "Default button"
+      },
+      "icon-right": {
+        "value": {
+          "verticalPadding": "{button.space.vertical-padding}",
+          "paddingLeft": "{button.space.padding-left}",
+          "paddingRight": "{button.space.icon-left.padding-left}",
+          "borderRadius": "{button.border-radius}",
+          "itemSpacing": "{link.space.gap}"
+        },
+        "type": "composition",
+        "padding-right": {
+          "value": "{padding.icon}",
+          "type": "spacing"
+        }
+      },
+      "icon-left": {
+        "value": {
+          "verticalPadding": "{link.space.vertical-padding}",
+          "paddingLeft": "{button.space.icon-left.padding-left}",
+          "paddingRight": "{button.space.padding-right}",
+          "borderRadius": "{button.border-radius}",
+          "itemSpacing": "{link.space.gap}"
+        },
+        "type": "composition",
+        "padding-left": {
+          "value": "{padding.icon}",
+          "type": "spacing"
+        }
+      },
+      "small": {
+        "no-icon": {
+          "value": {
+            "verticalPadding": "{link.space.vertical-padding}",
+            "paddingLeft": "{button.space.padding-left}",
+            "borderRadius": "{logius.border-radius.default}",
+            "itemSpacing": "{link.space.gap}",
+            "paddingRight": "{button.space.padding-right}"
+          },
+          "type": "composition"
+        },
+        "icon-right": {
+          "value": {
+            "verticalPadding": "{link.space.vertical-padding}",
+            "paddingLeft": "{button.space.padding-left}",
+            "paddingRight": "{button.space.icon-left.padding-left}",
+            "borderRadius": "{button.border-radius}",
+            "itemSpacing": "{link.space.gap}"
+          },
+          "type": "composition"
+        },
+        "icon-left": {
+          "value": {
+            "verticalPadding": "{link.space.vertical-padding}",
+            "paddingLeft": "{button.space.padding-left}",
+            "paddingRight": "{button.space.padding-right}",
+            "borderRadius": "{button.border-radius}",
+            "itemSpacing": "{link.space.gap}"
+          },
+          "type": "composition"
+        }
+      },
+      "space": {
+        "small": {
+          "vertical-padding": {
+            "value": "{logius.space.compensation-height.small}",
+            "type": "spacing"
+          }
+        },
+        "vertical-padding": {
+          "value": "{logius.space.compensation-height.default}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{logius.space.2-x}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{logius.space.2-x}",
+          "type": "spacing"
+        },
+        "icon-left": {
+          "padding-left": {
+            "value": "{logius.space.icon-side}",
+            "type": "spacing"
+          }
+        },
+        "icon-right": {
+          "padding-right": {
+            "value": "{logius.space.icon-side}",
+            "type": "spacing"
+          }
+        },
+        "gap": {
+          "value": "{logius.space.1-x}",
+          "type": "spacing"
+        }
+      },
+      "font": {
+        "primary": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "{button.font-weight}",
+            "lineHeight": "{button.line-height}",
+            "fontSize": "{button.text-size}"
+          },
+          "type": "typography"
+        },
+        "secondary": {
+          "value": "{button.font.primary}",
+          "type": "typography"
+        }
+      },
+      "border-radius": {
+        "value": "{logius.border-radius.default}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{logius.border-width.default}",
+        "type": "borderWidth"
+      },
+      "text-size": {
+        "value": "{logius.font-size.m}",
+        "type": "fontSizes"
+      },
+      "font-weight": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "icon-size": {
+        "value": "{logius.icon-size.default}",
+        "type": "sizing"
+      },
+      "line-height": {
+        "value": "{logius.font.line-height.m}",
+        "type": "lineHeights"
+      },
+      "size": {
+        "min-height": {
+          "value": "{logius.size.m}",
+          "type": "sizing"
+        },
+        "small": {
+          "min-height": {
+            "value": "{logius.size.s}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  },
+  "component/alert": {
+    "alert": {
+      "color": {
+        "info": {
+          "background": {
+            "value": "{logius.color.feedback.info.subdued}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "background": {
+            "value": "{logius.color.feedback.error.subdued}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "background": {
+            "value": "{logius.color.feedback.warning.subdued}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "background": {
+            "value": "{logius.color.feedback.success.subdued}",
+            "type": "color"
+          }
+        },
+        "foreground": {
+          "value": "{logius.color.foreground}",
+          "type": "color"
+        }
+      },
+      "font": {
+        "title": {
+          "value": "{font.body.m-700}",
+          "type": "typography"
+        },
+        "text": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        }
+      },
+      "icon-size": {
+        "alert": {
+          "value": "{logius.icon-size.large}",
+          "type": "sizing"
+        },
+        "close": {
+          "value": "{logius.icon-size.default}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "vertical-padding": {
+          "value": "{logius.space.compensation-height.default}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{logius.space.icon-side}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{logius.space.2-x}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{logius.space.1-x}",
+          "type": "spacing"
+        },
+        "closable": {
+          "padding-right": {
+            "value": "{logius.space.icon-side}",
+            "type": "spacing"
+          }
+        }
+      },
+      "border-radius": {
+        "value": "{logius.border-radius.default}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "component/forms": {
+    "forms": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.foreground}",
+          "type": "color"
+        },
+        "hint-text": {
+          "value": "{logius.color.subdued.foreground}",
+          "type": "color"
+        }
+      },
+      "field": {
+        "color": {
+          "placeholder": {
+            "value": "{logius.color.subdued.foreground}",
+            "type": "color",
+            "description": "Placeholder text"
+          },
+          "background": {
+            "value": "{logius.color.background}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "disabled": {
+            "foreground": {
+              "value": "{logius.color.subdued.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.subdued.background}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{logius.color.subdued.border}",
+              "type": "color"
+            }
+          },
+          "error": {
+            "border": {
+              "value": "{logius.color.feedback.error.default}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{logius.color.feedback.error.default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "border": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            }
+          }
+        },
+        "border-radius": {
+          "value": "{logius.border-radius.default}",
+          "type": "borderRadius"
+        },
+        "border-width": {
+          "default": {
+            "value": "{logius.border-width.default}",
+            "type": "borderWidth"
+          },
+          "active": {
+            "value": "2",
+            "type": "borderWidth"
+          }
+        },
+        "space": {
+          "horizontal-padding": {
+            "value": "{logius.space.2-x}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{logius.space.05-x}",
+            "type": "spacing"
+          },
+          "inline-icon": {
+            "padding-right": {
+              "value": "{logius.space.05-x}",
+              "type": "spacing"
+            }
+          }
+        },
+        "pulltab": {
+          "size": {
+            "value": "8",
+            "type": "sizing",
+            "description": "Icon to resize the texarea"
+          }
+        },
+        "size": {
+          "height": {
+            "value": "{logius.size.m}",
+            "type": "sizing"
+          }
+        }
+      },
+      "control": {
+        "color": {
+          "disabled": {
+            "foreground": {
+              "value": "{logius.color.subdued.foreground}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{logius.color.subdued.border}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{logius.color.subdued.border}",
+              "type": "color",
+              "description": "De kleur als de checkbox of radio aan is."
+            }
+          },
+          "border": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "error": {
+            "border": {
+              "value": "{logius.color.feedback.error.default}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "border": {
+              "value": "{logius.color.brand.default}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{logius.color.brand.default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "fill": {
+              "value": "{logius.color.brand.default}",
+              "type": "color",
+              "description": "De kleur als de checkbox of radio aan is."
+            }
+          }
+        },
+        "space": {
+          "vertical-padding": {
+            "value": "{logius.space.compensation-height.small}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{logius.space.1-x}",
+            "type": "spacing"
+          },
+          "compensation-height": {
+            "value": "5",
+            "type": "spacing",
+            "description": "Vertical-padding to align the checkbox and radio with the line-height "
+          }
+        },
+        "size": {
+          "min-height": {
+            "value": "{logius.size.s}",
+            "type": "sizing"
+          }
+        },
+        "input": {
+          "size": {
+            "value": "18",
+            "type": "sizing",
+            "description": "Height and width of the radiobutton and checkbox\n"
+          }
+        }
+      },
+      "menu": {
+        "border-width": {
+          "value": "{logius.border-width.default}",
+          "type": "borderWidth"
+        },
+        "color": {
+          "background": {
+            "value": "{logius.color.background}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.subdued.border}",
+            "type": "color"
+          }
+        },
+        "border-radius": {
+          "value": "{logius.border-radius.default}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{logius.shadow.default}",
+          "type": "boxShadow"
+        }
+      },
+      "selector": {
+        "menu-item": {
+          "space": {
+            "vertical-padding": {
+              "value": "{logius.space.compensation-height.small}",
+              "type": "spacing"
+            },
+            "horizontal-padding": {
+              "value": "{logius.space.2-x}",
+              "type": "spacing"
+            }
+          },
+          "color": {
+            "hover": {
+              "background": {
+                "value": "{logius.color.hover.background}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      },
+      "font": {
+        "text": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        },
+        "label": {
+          "value": "{font.body.m-700}",
+          "type": "typography"
+        },
+        "hint-text": {
+          "value": "{font.body.s-400}",
+          "type": "typography"
+        },
+        "selected": {
+          "value": "{font.body.m-700}",
+          "type": "typography"
+        }
+      },
+      "datepicker": {
+        "date": {
+          "color": {
+            "background": {
+              "value": "{logius.color.background}",
+              "type": "color"
+            },
+            "active": {
+              "background": {
+                "value": "{logius.color.brand.default}",
+                "type": "color"
+              },
+              "foreground": {
+                "value": "{logius.color.onEmphasis.foreground}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "background": {
+                "value": "{logius.color.hover.background}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "foreground": {
+                "value": "{logius.color.subdued.foreground}",
+                "type": "color"
+              }
+            }
+          },
+          "border-radius": {
+            "value": "{logius.border-radius.circle}",
+            "type": "borderRadius"
+          },
+          "size": {
+            "value": "{logius.size.m}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  },
+  "component/pagination": {
+    "pagination": {
+      "space": {
+        "gap": {
+          "value": "{logius.space.0-x}",
+          "type": "spacing"
+        }
+      },
+      "number": {
+        "size": {
+          "height": {
+            "value": "{logius.size.s}",
+            "type": "sizing"
+          },
+          "min-width": {
+            "value": "{logius.size.s}",
+            "type": "sizing"
+          }
+        },
+        "space": {
+          "horizontal-padding": {
+            "value": "{logius.space.05-x}",
+            "type": "sizing"
+          }
+        },
+        "color": {
+          "background": {
+            "value": "{logius.color.none}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "active": {
+            "foreground": {
+              "value": "{logius.color.onEmphasis.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.brand.default}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "background": {
+              "value": "{logius.color.hover.background}",
+              "type": "color"
+            }
+          }
+        },
+        "font": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        },
+        "active": {
+          "font": {
+            "value": "{font.body.m-700}",
+            "type": "typography"
+          }
+        }
+      },
+      "hit-area": {
+        "size": {
+          "value": "44",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "component/link": {
+    "link": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.donkerblauw.300}",
+          "type": "color"
+        },
+        "hint-text": {
+          "value": "{logius.color.subdued.foreground}",
+          "type": "color"
+        },
+        "hover": {
+          "foreground": {
+            "value": "{logius.color.donkerblauw.400}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "foreground": {
+            "value": "{logius.color.onEmphasis.foreground}",
+            "type": "color"
+          }
+        }
+      },
+      "space": {
+        "vertical-padding": {
+          "value": "{logius.space.compensation-height.small}",
+          "type": "spacing"
+        },
+        "horizontal-padding": {
+          "value": "{logius.space.0-x}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{logius.space.05-x}",
+          "type": "spacing"
+        },
+        "compensation-height": {
+          "value": "{logius.space.compensation-height.icon}",
+          "type": "spacing"
+        }
+      },
+      "icon-size": {
+        "value": "{logius.icon-size.default}",
+        "type": "sizing"
+      },
+      "font": {
+        "default": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Regular",
+            "lineHeight": "{logius.font.line-height.m}",
+            "fontSize": "{logius.font-size.m}",
+            "textDecoration": "Underline"
+          },
+          "type": "typography"
+        },
+        "hint-text": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        },
+        "inverse": {
+          "default": {
+            "value": {
+              "fontFamily": "{logius.font-family.default}",
+              "fontWeight": "Regular",
+              "lineHeight": "{logius.font.line-height.m}",
+              "fontSize": "{logius.font-size.m}",
+              "textDecoration": "none"
+            },
+            "type": "typography"
+          },
+          "hover": {
+            "value": "{link.font.default}",
+            "type": "typography"
+          }
+        }
+      },
+      "size": {
+        "min-height": {
+          "value": "{logius.size.s}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "component/ontwikkeling/card": {
+    "card": {
+      "space": {
+        "gap": {
+          "value": "{logius.space.3-x}",
+          "type": "spacing"
+        },
+        "content": {
+          "gap": {
+            "icon-left": {
+              "value": "{logius.space.2-x}",
+              "type": "spacing"
+            },
+            "icon-top": {
+              "value": "{logius.space.1-x}",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "font": {
+        "body": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        },
+        "title": {
+          "value": "{font.heading.level-2.700}",
+          "type": "typography"
+        }
+      },
+      "icon-size": {
+        "value": "64px",
+        "type": "sizing"
+      }
+    }
+  },
+  "breakpoint/vp-md": {
+    "space": {
+      "sheet": {
+        "value": "{logius.space.3-x} {logius.space.3-x}",
+        "type": "spacing"
+      }
+    }
+  },
+  "breakpoint/vp-xs": {
+    "font-size": {
+      "s": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "36",
+        "type": "fontSizes"
+      }
+    },
+    "line-height": {
+      "s": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "m": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "l": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "xl": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "2xl": {
+        "value": "36",
+        "type": "lineHeights"
+      }
+    },
+    "forms": {
+      "control": {
+        "size": {
+          "min-height": {
+            "value": "{logius.size.m}",
+            "type": "sizing"
+          }
+        },
+        "position": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "space": {
+          "compensation-height": {
+            "value": "3",
+            "type": "spacing"
+          }
+        }
+      },
+      "input": {
+        "control": {
+          "space": {
+            "vertical-padding": {
+              "value": "{logius.space.1-x}",
+              "type": "spacing"
+            },
+            "position": {
+              "value": "3",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "font": {
+        "hint-text": {
+          "value": "{font.body.m-400}",
+          "type": "typography"
+        }
+      },
+      "selector": {
+        "menu-item": {
+          "space": {
+            "vertical-padding": {
+              "value": "{logius.space.105-x}",
+              "type": "spacing"
+            }
+          }
+        }
+      }
+    },
+    "link": {
+      "size": {
+        "min-height": {
+          "value": "{logius.size.m}",
+          "type": "sizing"
+        }
+      }
+    },
+    "alert": {
+      "space": {
+        "vertical-padding": {
+          "value": "{logius.space.105-x}",
+          "type": "spacing"
+        }
+      }
+    },
+    "space": {
+      "compensation-height": {
+        "small": {
+          "value": "{logius.space.105-x}",
+          "type": "spacing",
+          "description": "Eigenlijk is dit een min-height van 48px met 8px padding ipv 12. Nu gebruiken we hier 12 omdat dat samen met de fontsize hier 48p hoogte behaald."
+        },
+        "icon": {
+          "value": "{logius.space.05-x}",
+          "type": "spacing"
+        }
+      },
+      "sheet": {
+        "value": "{logius.space.3-x} {logius.space.2-x}",
+        "type": "spacing"
+      },
+      "listItem": {
+        "value": "{logius.space.105-x}",
+        "type": "spacing"
+      }
+    },
+    "card": {
+      "space": {
+        "gap": {
+          "value": "{logius.space.2-x}",
+          "type": "spacing"
+        }
+      },
+      "icon-size": {
+        "value": "56px",
+        "type": "sizing"
+      }
+    }
+  },
+  "dark-mode/semantic": {
+    "logius": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.grijs.100}",
+          "type": "color"
+        },
+        "background": {
+          "value": "{logius.color.grijs.700}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{logius.color.grijs.500}",
+          "type": "color"
+        },
+        "canvas": {
+          "value": "{logius.color.zwart}",
+          "type": "color",
+          "description": "component-token"
+        },
+        "onEmphasis": {
+          "foreground": {
+            "value": "{logius.color.wit}",
+            "type": "color"
+          }
+        },
+        "subdued": {
+          "foreground": {
+            "value": "{logius.color.grijs.400}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{logius.color.grijs.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.grijs.600}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background": {
+            "value": "{logius.color.grijs.600}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{logius.color.violet.300}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{logius.color.violet.200}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{logius.color.violet.400}",
+            "type": "color"
+          }
+        },
+        "feedback": {
+          "info": {
+            "subdued": {
+              "value": "{logius.color.hemelblauw.200}",
+              "type": "color"
+            }
+          },
+          "error": {
+            "subdued": {
+              "value": "{logius.color.rood.200}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "subdued": {
+              "value": "{logius.color.donkergeel.200}",
+              "type": "color"
+            }
+          },
+          "success": {
+            "subdued": {
+              "value": "{logius.color.groen.200}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  },
+  "dark-mode/component": {
+    "button": {
+      "color": {
+        "tertiary": {
+          "hover": {
+            "background": {
+              "value": "{logius.color.hover.background}",
+              "type": "color"
+            },
+            "foreground": {
+              "value": "{button.color.tertiary.foreground}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "hover": {
+            "foreground": {
+              "value": "{button.color.secondary.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.hover.background}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{button.color.secondary.border}",
+              "type": "color"
+            }
+          },
+          "foreground": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{logius.color.border}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "alert": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.grijs.700}",
+          "type": "color"
+        }
+      }
+    },
+    "forms": {
+      "control": {
+        "color": {
+          "active": {
+            "fill": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "link": {
+      "color": {
+        "foreground": {
+          "value": "{logius.color.donkerblauw.200}",
+          "type": "color"
+        },
+        "hover": {
+          "foreground": {
+            "value": "{logius.color.donkerblauw.100}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "MO/semantic": {
+    "logius": {
+      "color": {
+        "brand": {
+          "default": {
+            "value": "{logius.color.hemelblauw.300}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{logius.color.hemelblauw.400}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{logius.color.donkerblauw.100}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "MO/component": {
+    "input": {
+      "size": {
+        "height": {
+          "value": "{logius.size.s}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "DD/semantic": {
+    "logius": {
+      "color": {
+        "brand": {
+          "default": {
+            "value": "{logius.color.oranje.300}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{logius.color.oranje.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{logius.color.oranje.400}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "DD/component": {
+    "button": {
+      "font": {
+        "primary": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "Bold",
+            "lineHeight": "28",
+            "fontSize": "19"
+          },
+          "type": "typography"
+        },
+        "secondary": {
+          "value": {
+            "fontFamily": "{logius.font-family.default}",
+            "fontWeight": "{button.font-weight}",
+            "lineHeight": "28",
+            "fontSize": "18"
+          },
+          "type": "typography"
+        }
+      },
+      "color": {
+        "secondary": {
+          "border": {
+            "value": "{logius.color.border}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "hover": {
+            "border": {
+              "value": "{button.color.secondary.border}",
+              "type": "color"
+            },
+            "foreground": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.hover.background}",
+              "type": "color"
+            }
+          }
+        },
+        "tertiary": {
+          "foreground": {
+            "value": "{logius.color.foreground}",
+            "type": "color"
+          },
+          "hover": {
+            "foreground": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{logius.color.hover.background}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "forms": {
+      "control": {
+        "color": {
+          "hover": {
+            "border": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{logius.color.subdued.foreground}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "fill": {
+              "value": "{logius.color.foreground}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "datepicker": {
+        "date": {
+          "color": {
+            "active": {
+              "background": {
+                "value": "{logius.color.foreground}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "DD/stepwizard": {
+    "button": {
+      "font": {
+        "value": {
+          "fontFamily": "{logius.font-family.default}",
+          "fontWeight": "Bold",
+          "lineHeight": "32",
+          "fontSize": "20"
+        },
+        "type": "typography"
+      }
+    },
+    "dd-component": {
+      "stepwizard": {
+        "background": {
+          "value": "{logius.color.background}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{logius.color.subdued.border}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{logius.color.hover.background}",
+          "type": "color"
+        },
+        "label-color": {
+          "value": "{logius.color.subdued.foreground}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{logius.color.foreground}",
+          "type": "color"
+        }
+      }
+    },
+    "layout": {
+      "stepwizard": {
+        "open": {
+          "value": {
+            "verticalPadding": "24",
+            "horizontalPadding": "24",
+            "spacing": "16",
+            "borderRadius": "4",
+            "borderWidth": "2",
+            "border": "{dd-component.stepwizard.border}"
+          },
+          "type": "composition"
+        },
+        "closed": {
+          "value": {
+            "verticalPadding": "12",
+            "horizontalPadding": "24"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  },
+  "DD/header": {
+    "header": {
+      "color": {
+        "background": {
+          "value": "{logius.color.background}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{logius.color.foreground}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Digitoegankelijk": {},
+  "$themes": [
+    {
+      "id": "60315acb9c82133759580124c5ba7498dc1b3ce4",
+      "name": "Foundation",
+      "selectedTokenSets": {
+        "component/button": "enabled",
+        "component/alert": "enabled",
+        "component/forms": "enabled",
+        "component/pagination": "enabled",
+        "component/link": "enabled",
+        "default/core": "source",
+        "default/semantic": "source"
+      },
+      "$figmaStyleReferences": {
+        "body.s-400": "S:945b3429270c1a4418b1a976ab78a0d37a826e15,",
+        "body.s-700": "S:f56df3c786dfc93aaae42684baed5e49b3169c88,",
+        "body.m-700": "S:be7b46904b36f8f509712ebfa2731516361d31f9,",
+        "body.l-400": "S:3af16afa95ea27590dd8eded8dfaca85f788104c,",
+        "body.l-700": "S:72444ae07fa6bf211bd58e521127eec40455471c,",
+        "paragraph.default": "S:738a401267d6ed4d362b337713949c88375b03e3,",
+        "paragraph.lead": "S:747ba863ca2e2f5472b12399d27dccd1133297db,",
+        "mobile.body.s-400": "S:50f7df751e1bb12d3be72eaa3bc9e127d14161c3,",
+        "mobile.body.s-700": "S:6b3c2249c940ca63ed3661d49d3a4f24df4c1813,",
+        "mobile.body.m-400": "S:b951e85b1f78e8b850de70e4ed4b50039c205fb1,",
+        "mobile.body.m-700": "S:2dc3e04bc25a53dfe793e4d7dda8947a544fee84,",
+        "mobile.body.l-400": "S:84b22fd3a91284ac819bda129e6d37cdcf61b8e9,",
+        "mobile.body.l-700": "S:ec3058412a46bed51e4d8bc7da6eb4a30333d866,",
+        "mobile.paragraph.default": "S:c06bb27146f5cb17ef339507afefc21e4c482d9b,",
+        "mobile.paragraph.lead": "S:15cf0851b8a04037144abc261a483e4f0481abc1,",
+        "mobile.text-style.input.label": "S:4b65e682becbb60745a9f77d59b3dd3d37ef8064,",
+        "mobile.text-style.input.hinttext": "S:cd5755e42fcb5f54fc2e511487e18e8d92750ff5,",
+        "mobile.text-style.button.label": "S:9c01059663bfb623e1cbbe38854e8211148eca29,",
+        "base.grey.100": "S:51c3565c21c3e04023e674424320d174517282b9,",
+        "base.grey.200": "S:5dc10a82dcc24e670a8a1ca7637fb347b7f2d8b0,",
+        "base.grey.300": "S:cb60c70607327527a84769bf10e6cff9ab546db6,",
+        "base.grey.400": "S:69bb351d2597cddfbb97b6d822b4d4b7bd0b4f2c,",
+        "base.grey.500": "S:6fa966b933ed57ca43be90cd0c566ff1d98c62e9,",
+        "base.grey.600": "S:dbc86028b47c587f2ec2cd4e28e886fc6ae6add7,",
+        "base.grey.700": "S:9078d9b15060e12e61bd507704c5044717e84cf8,",
+        "base.grey.800": "S:e587bfc26d874d1c1f8c5534fe48299b6e7ad1bf,",
+        "base.grey.900": "S:67ad0c94d3940fcf94bc780155094076068ac6f8,",
+        "base.neutral.black": "S:99eff11303597e46e7a694473b786386011ce682,",
+        "base.neutral.white": "S:906db693c4b9eb451a2a35a6fc58730a89e072bb,",
+        "base.lichtblauw.100": "S:5ffab7cca25196c93de7b2d4b65d1c5b7bc37a61,",
+        "base.lichtblauw.200": "S:d5638a55dd7082572648781f52e717529cb966f3,",
+        "base.lichtblauw.300": "S:6f51115a1aaf1b2c7ff33fe5cbd6463eee762a1b,",
+        "base.violet.100": "S:981f2d1136e7e35bae22fab2aa3ba29ac9324d68,",
+        "base.violet.200": "S:2b934220f9270a649985a490f2918face5babe07,",
+        "base.violet.300": "S:0ceed6eaeb18908861fc60c28b992f5bb99d77dc,",
+        "base.paars.100": "S:34a6f93d4d1697f415c447dc3b8ba419d0f101f8,",
+        "base.paars.200": "S:f54812a6cd23941fc6a8c143415e29abe3269e3a,",
+        "base.paars.300": "S:6df11b61d8e6c7684e129902ef6a15fdc5deee97,",
+        "base.hemelblauw.100": "S:b6588ed7a901fc942df7c8a51792e702dc17c3bd,",
+        "base.hemelblauw.200": "S:e65a1494ab19d6319a8c5e7e6f7cfa59ee0205ce,",
+        "base.hemelblauw.300": "S:08ac48d38ec937cc350fb9e37b3a8b6375f8f530,",
+        "base.hemelblauw.400": "S:a341f84c70770f175eb8c5c6cee1f33cf6876dbc,",
+        "base.hemelblauw.500": "S:8cb375828296abb0cecde12023ee57105eb50e59,",
+        "base.hemelblauw.600": "S:f776661f50f9996e933d157de112ff55e1e90e24,",
+        "base.donkerblauw.100": "S:6815e45d0bea648518bb73b50ae265df52983d0a,",
+        "base.donkerblauw.200": "S:59d57439b46964ec23300d722b9128c117f4235b,",
+        "base.donkerblauw.300": "S:65ed1f08252acb2a99f56bb8a9e77d36b5e5e99b,",
+        "base.mintgroen.100": "S:21396f5e82802ff462fe459c09738c7bc046ad44,",
+        "base.mintgroen.200": "S:7a3e392e1e384428e4fb8011e27167492445610b,",
+        "base.mintgroen.300": "S:078948823b9f2ab17f9a5e4fa6ee2a7515f701f0,",
+        "base.mosgroen.100": "S:a09e264686e88cd34b3248fc1ff1b9d75878a163,",
+        "base.mosgroen.200": "S:8f53219808d8f4a2df2e1e55b9fb67ac5067e1da,",
+        "base.mosgroen.300": "S:cb8a64174b4838a2b53ff48990c9d9d1c6cf66b1,",
+        "base.groen.100": "S:4ae5680d3cb0520eb4502b5cf11b81756168fdef,",
+        "base.groen.200": "S:aef027ce3e26f72ba8cb6d748c883f85718b2c83,",
+        "base.groen.300": "S:6eb8e143de37d70ec84e9f2f8a76cb370f8984b0,",
+        "base.groen.400": "S:43d3920c4b407a469d75700388bcda43e6c2efa7,",
+        "base.groen.500": "S:9709a232a0a150fe46bd788a8afc3f0775ad32f4,",
+        "base.donkergroen.100": "S:4575657c925c55c7fa558e3c927a0611e5debeed,",
+        "base.donkergroen.200": "S:d3a8bb186d94c11f0fe292cc8d53d252ee3d1b98,",
+        "base.donkergroen.300": "S:92e201007379c96e2930bdfb1fb6bf2c2d16ac12,",
+        "base.bruin.100": "S:b725db55be7b88bec44a6f01c53d9e0f39f18e96,",
+        "base.bruin.200": "S:e55b83161d1768dea2b7706c21928ab5bf477d35,",
+        "base.bruin.300": "S:2a4ee7b9a096b9534b901f5523a897b81c038885,",
+        "base.donkerbruin.100": "S:f7577000f99eab0ff72502e1a685815b0c7c6e4c,",
+        "base.donkerbruin.200": "S:986d6288e07902a2022d3d920ab0dc7552bb40e8,",
+        "base.donkerbruin.300": "S:aa9432fa8b454627593117304abd579f15826ca1,",
+        "base.geel.100": "S:d356c8bc81f11096e2f7af29277b189555f48b7a,",
+        "base.geel.200": "S:b474de27b3a4d9a20cc6bbb00e085df552a37a3d,",
+        "base.geel.300": "S:98dfd5dde800f8e2dd115f1166f3b57d037fdfb1,",
+        "base.donkergeel.100": "S:016300f7b78d4fef1b3d986bdb7cd6464dcb0a71,",
+        "base.donkergeel.200": "S:38026d6a037cc2d2a53a296548b8c1eba21346e3,",
+        "base.donkergeel.300": "S:014610df5985eed432441b8384017a09410bd199,",
+        "base.oranje.100": "S:1eca9c1a51e60ade74839ccbe9504d78dfef3a0a,",
+        "base.oranje.200": "S:8469f3d4f5ab2e78e62cfeef18132fdf9d888738,",
+        "base.oranje.300": "S:e4a77834a2aa43190f73dd787ae29157c16e8eb4,",
+        "base.oranje.400": "S:97dc5c84b364f41b209237c5946f9152a5965bd6,",
+        "base.rood.100": "S:8cb03238abaa812e7d3dd89ddee13353d6d4814d,",
+        "base.rood.200": "S:e599a47387d40243bdbfcdb63b775d72fa5928d1,",
+        "base.rood.300": "S:96609e51af1247e8031ec96778af6f22b57ceb89,",
+        "base.rood.400": "S:0b7c46d134706b47e1ced5b3b72cbd7e05dc8327,",
+        "base.rood.500": "S:7bf6fb367524827e705a1c9d8e1838056a7114ec,",
+        "base.roze.100": "S:b27c545d1dd4d957cd61c2b3de0e087c4f8647bd,",
+        "base.roze.200": "S:20858a8e10ff930d7d5f7acd89c1b62fdef572d3,",
+        "base.roze.300": "S:fd8dd913993bbe7f37c1fc72c1953b3d05a3645d,",
+        "base.robijnrood.100": "S:582240ff931d7cab40169828e2d6e187899b5717,",
+        "base.robijnrood.200": "S:458e90b70823847271119e6d3e89da5b05f38212,",
+        "base.robijnrood.300": "S:78d5c5e5c6cbac7dc5e218eb9367c8af692bf4b7,",
+        "semantic.disabled.100": "S:2356e6c3530804e7d76a8f03f8285ed4ce5ed4b1,",
+        "semantic.disabled.200": "S:12310c920ff964bc97e8738f7f7c061a47d850eb,",
+        "semantic.success.100": "S:f142938ac849659513463591c38820b218b1230a,",
+        "semantic.success.200": "S:a7dfb0e548dc56171d9e4c5eec14d4c6f8edfe91,",
+        "semantic.info.100": "S:99bca1df5086fd3db1f71691af8edcf0c2f1bbdb,",
+        "semantic.info.200": "S:d876cdf9882956ccb6fac51243f33f28414d0560,",
+        "semantic.error.100": "S:d2f78ac803f16dcb221a3738196012e49ede7d2a,",
+        "semantic.error.200": "S:67abbf430f60315fa1896bb239457b7f8cfc997a,",
+        "semantic.warning.100": "S:2a88a1f2cbdacc2dfa5b1fb3897cf1f34202536a,",
+        "semantic.warning.200": "S:adea74e3255c6d68e71adbe27de5452b723ad2bc,",
+        "semantic.highlight.100": "S:d16dc51180bbb8c94aaceb37daeb0fbc23cb03dc,",
+        "semantic.highlight.200": "S:67a09163339803dcab67868ca7fc988b32ceb047,",
+        "semantic.neutral.background": "S:de9d05c01c7487374461ba90b043debaf4dabe51,",
+        "semantic.neutral.background-medium": "S:e5f473cee701ff0275a3ba70069457ac6cd14561,",
+        "semantic.neutral.background-hover": "S:81b69b4de4b8d3d458c709bada67b39849120315,",
+        "semantic.disabled.border": "S:0b652747e98f0bd8339ed80930bd17d0e41a2753,",
+        "semantic.disabled.background": "S:64608b16f19abfe4f0fad7c1aa70633a34d66d00,",
+        "semantic.inverse.text": "S:fbaf7f44176d87c821acb3823edcb6e747bfe17b,",
+        "semantic.inverse.text-link": "S:32aac6544eeb1018f7154b70b04b824663e3e338,",
+        "semantic.inverse.background": "S:66ecdba977d97e157b4ba36cbbdaad201d23b800,",
+        "semantic.inverse.icon": "S:1ddca0ad13497d9bdd1e1f040e3b1828e9d6df2c,",
+        "button.primary.text": "S:8b710d47c51d62e3dcd3e54771383ba4a2553c2b,",
+        "button.primary.icon": "S:7c62f654313ccbdd9faeb71cd10edeccac6efab8,",
+        "button.primary.background": "S:7abb31d8bd196989c45c6b03392bf3108c76b3de,",
+        "button.primary.border": "S:d069d1df2c4a84323eb0078e97cd2fedcdeb0b58,",
+        "button.primary.hover.text": "S:b7b20d59bc7877358dc6d41b6ceadf2686cf2f29,",
+        "button.primary.hover.icon": "S:9faffd509bed3a4032c53fcfe01ad1c12fa08890,",
+        "button.primary.hover.background": "S:340c7efeb9956ab16f9f57da45f148452f089e10,",
+        "button.primary.hover.border": "S:2731ab1f3bf74a0127dac0ae4642489e69294de2,",
+        "button.primary.disabled.text": "S:378ce798cb1ea2ae162b94794a8299fa293f5dc8,",
+        "button.primary.disabled.icon": "S:f49a80b49a18bf24bc40901dc1d952ed699d9260,",
+        "button.primary.disabled.background": "S:da54db913addd2d04355733ec51dbcae4df09832,",
+        "button.primary.disabled.border": "S:bae881c25bfc5fef9945313470e3deeebe9ac0c9,",
+        "button.tertiary.text": "S:34479b21a916ee0603f409f5e0fd9602c0403d3e,",
+        "button.tertiary.icon": "S:38886a04ccba10e967547809c1a51382a96be9cb,",
+        "button.tertiary.background": "S:4d74f056286416099c1ea76f2ee7b9c13f0b222e,",
+        "button.tertiary.hover.text": "S:db178a69683398bd4c85d32aa1c6a58d7f95399d,",
+        "button.tertiary.hover.icon": "S:71b4e18ffeb93a5d5f140686f0f650296eff0dca,",
+        "button.tertiary.hover.background": "S:de7cfb578cde273a5f5a5354aa68a8e0736329e9,",
+        "button.tertiary.disabled.text": "S:b21372f32014480362a0832724cd2a2001aa0afe,",
+        "button.tertiary.disabled.icon": "S:49de7ee4479ea6f2776a0c67403fe3d5e6ee9136,",
+        "button.secondary.text": "S:e2ada3b10941e60ab147b6799c22d1aa2e01895e,",
+        "button.secondary.icon": "S:1b3ddde86745fe393648e1d6322b2fbfa99492ef,",
+        "button.secondary.background": "S:ad1395eea0a560388fb535d658153337582d1b6c,",
+        "button.secondary.border": "S:3843334a5fd5a153cc689b190c8f304174a9a437,",
+        "button.secondary.disabled.text": "S:4097c051300deb4c760811725ad82a88fd1173e0,",
+        "button.secondary.disabled.icon": "S:57897618950ff3956296ee07d2cebb45025fa9c0,",
+        "button.secondary.disabled.background": "S:fcfe246008948dd6aa08521b616b0944e1f2ad8a,",
+        "button.secondary.disabled.border": "S:6999746f621e677a67dd5a2682ec2ce15bf23aab,",
+        "button.secondary.hover.background": "S:669f9b36da12770b6ae1ebac346942e41ff98197,",
+        "input.controls.disabled.border": "S:524e62c44af5ef0cef5305fb3960b7b85184d1d1,",
+        "input.controls.disabled.fill": "S:5eb9c969ab03fb05ac7167bb8a34b948d22d28e5,",
+        "button.primary.text-color": "S:274627294a8c0b5cd9511a0e362d726a68024c2f,",
+        "button.primary.icon-color": "S:cafbd37f7b75ef62cd55213ee599a36f39c6b8b5,",
+        "button.primary.background-color": "S:c8382af03eaf6a88a6450bf1c270dd837af0391a,",
+        "button.primary.border-color": "S:5655e03a230e9d61593d1137a611773788bf0a27,",
+        "button.primary.hover.text-color": "S:19050b061e108d1bb652697135e8b0457e3aa4f4,",
+        "button.primary.hover.icon-color": "S:967924210667f4da19f3f655c5365c40c3226828,",
+        "button.primary.hover.background-color": "S:b48ca9856e690932af9ee72f07f4c2a5ebcad0b5,",
+        "button.primary.hover.border-color": "S:c81ead58459aa6b076ca295fc1dfb4a8e805a146,",
+        "button.primary.disabled.text-color": "S:3227756c026971e86a63bc8e162a0a532fe673a8,",
+        "button.primary.disabled.icon-color": "S:dfecaac7745dad23a43f53db911caeabe238b9dc,",
+        "button.primary.disabled.background-color": "S:7ba3c8dd7fd80881cb2deba82c0136151abbe06d,",
+        "button.primary.disabled.border-color": "S:0b1b4f529c1c104a62b0e4c0430fa879910c9adb,",
+        "button.tertiary.text-color": "S:52b82865d9fa3d4dad8d55abb755e9796d024aeb,",
+        "button.tertiary.icon-color": "S:c48e04565025540a78a33020ec0c164fa96cc5c0,",
+        "button.tertiary.background-color": "S:94790b4848e817e4a26fca500ba20635a11e4d1d,",
+        "button.tertiary.hover.text-color": "S:9e49d54fb18a3777d31a00f9a4a312c3d0adc35f,",
+        "button.tertiary.hover.icon-color": "S:66e43bbae05794d6edc1d49495d277e00980f4e0,",
+        "button.tertiary.hover.background-color": "S:7752e3b4b4d4fbf2c07f966278fe4dc5f6999d1e,",
+        "button.tertiary.disabled.text-color": "S:2140baee9f114e9e8d54d752f1deed44dbdf3dc7,",
+        "button.tertiary.disabled.icon-color": "S:51f833e804d9794ec7d0813236df7b6644384b4b,",
+        "button.secondary.text-color": "S:5cdea488cc170c16fc905acaf56f906985e932a3,",
+        "button.secondary.icon-color": "S:489c744d2dcef14b281755dd3c287930c0a10079,",
+        "button.secondary.background-color": "S:8deb682cda98dd42782e6d35d9725e9567dd2869,",
+        "button.secondary.border-color": "S:c8aaf95cff67c60c6d3c247573aaafc4dfb865eb,",
+        "button.secondary.disabled.text-color": "S:7cf10f3707ef23aabc75f9c57010e87febabfb94,",
+        "button.secondary.disabled.icon-color": "S:a9ec0eba30d2098f56439b4cb651f68e859a301d,",
+        "button.secondary.disabled.background-color": "S:03d9be466e36ee45c7d84b6940e77a7fe4b3e831,",
+        "button.secondary.disabled.border-color": "S:383b2d8130128df0c4e26ed303705eb582f9e83c,",
+        "button.secondary.hover.background-color": "S:6c7af2965e42cef0e84084e585cd7b209e59db8f,",
+        "body.m-400": "S:fea26da94252cc95a80d363f897b8c5946682073,",
+        "semantic.disabled.fg": "S:c5652cd832e1569860bd00a97fb954ab20f6867a,",
+        "base.neutral.transparent": "S:b0d8af88d15a637df30ef7cf850da04c54c8bdf2,",
+        "heading.level-1.400": "S:3daf42855ed6203526bf32321a9c6d5df89ebc79,",
+        "heading.level-2.700": "S:6fd51fb3ab273cf930529e71117ba77edbb26001,",
+        "heading.level-2.400": "S:bb7f1887eabd4dae0c84910ff4b00ebdb9341552,",
+        "heading.level-3.400": "S:6bda068587c9536a23c2d8301fd5aed40a7c141d,",
+        "heading.level-4.700": "S:a47cc881c0a156e22590e010c2b578e09ef2457a,",
+        "heading.level-3.700": "S:af595e9cfbd85461916eae97ff4890557da637c1,",
+        "mobile.heading.level-4.700": "S:812f161b81a865fef689d8778389a97aa70db63c,",
+        "mobile.heading.level-3.700": "S:e624ede96d8068c5d50a154c75ab49a4350a82a5,",
+        "mobile.heading.level-3.400": "S:265eb46e6a219366d1b923747cf65407903059dd,",
+        "mobile.heading.level-2.700": "S:4d708427fb0516960a51fbc0e6885556c856226a,",
+        "mobile.heading.level-2.400": "S:55653455f7e63fbb5950311608995336772b869a,",
+        "mobile.heading.level-1.700": "S:8dcf9f13c86b87a0bb0aab55c5ac06617c71bd6d,",
+        "mobile.heading.level-1.400": "S:79abd7ee8dadda96f7f3c8529b53002899bc0807,",
+        "color.secondary.fg": "S:0741117569ed36bfe5c8feae1357fefb25c34a2e,",
+        "color.secondary.bg": "S:080f13b4ab72dc3b85e0d842a82e735fac646340,",
+        "color.canvas": "S:b16b91a4799b4dbfc5c4caed8a15e8059a234be6,",
+        "color.brand.hover": "S:380d89872404047e6b2f54bae7bb57a7713a7dc4,",
+        "color.feedback.success.default": "S:d884f1ad7dc2c0c44a66bfa04627252c98bc7954,",
+        "color.feedback.success.subdued": "S:09ac72a6dd5eed3a4f7d8de1da0c4a96fc64f8d1,",
+        "color.feedback.info.default": "S:5dfdc625da2f359d8333c6296abed321b76ce606,",
+        "color.feedback.error.default": "S:633b67da1a41462e8e93502e9489d9a3bdc837c8,",
+        "color.feedback.warning.default": "S:d23a65c24adce66502ab36c870dbe9aca0313863,",
+        "color.feedback.warning.subdued": "S:7bbe52e91affde91b743ea183549ae0ff44c0904,",
+        "color.feedback.error.subdued": "S:79ee2786f8f3f19e4ba311ea8ed5aeac40011d4a,",
+        "color.feedback.info.subdued": "S:6da02ef54603ef2bf3cbce6efc60dbf9ea51c723,",
+        "color.brand.default": "S:959005590ad60ed08b799860fe5ce9056875e112,",
+        "color.border": "S:2d7f942d2e78a2ede7ab72ecb468ccf9fbd8ecd5,",
+        "color.subdued.border": "S:cbda57b216422ccf4d56906a96fda458763bf2be,",
+        "font.color.hint-text": "S:9ccb31eaa700e32a539380c64d63cbf0b092a5e9,",
+        "forms.input.color.disabled.bg": "S:b09c2dff261870017e0d7124da9a39045f8cc690,",
+        "forms.input.color.placeholder": "S:a1c7783e60f1f19db6e5505a293613fd828bbd08,",
+        "forms.input.color.bg": "S:f3d409cddc8627b6278f0a8a2b83c00483a6e47a,",
+        "forms.input.color.border": "S:6cd56382fb14c74e72e9f0259e917d2529ed81a7,",
+        "forms.input.color.disabled.border": "S:a075e6132c61c9f6495107aaca9cf727adbb3c12,",
+        "forms.input.color.disabled.text": "S:2858fdb08bd0304a075e006e399863283761907d,",
+        "forms.input.color.error.border": "S:de3e1340430fcde36639c03faad63db1af1ec563,",
+        "forms.input.color.error.icon": "S:3edce309496bc39dbf7e6da37307659d80dd2217,",
+        "forms.input.color.focus.border": "S:676004ffec1277556984cd5263d443574381a29b,",
+        "forms.input.color.focus.fill": "S:c2b9c481d22969f7c2891c3d9751a211ba764986,",
+        "forms.input.color.disabled.fill": "S:a0b20670aff481c7e7c2a7ec0f1c59d5196ff00a,",
+        "forms.input.color.selected.fill": "S:07782ec3dd2ab05f1541bad2b6d6d2bd65d16d21,",
+        "color.brand.subdued": "S:39b320645f4d4129756f48b07ec583d969a0c6f8,",
+        "color.grijs.100": "S:4607b2ad510b99aea7c64708b7378729920e0ffb,",
+        "color.grijs.200": "S:d4736f6384415f28c3b68233832cd771e4c8ae55,",
+        "color.grijs.300": "S:dd226b5f9646539ccbfa011c5a58bacba2015990,",
+        "color.grijs.400": "S:8e9e36d61b878e14951ad3bbe4306aee2f7b312d,",
+        "color.grijs.500": "S:f14818cb43dd323571874d20a8adb7e885cd5a45,",
+        "color.grijs.600": "S:8372ea81362f521d8d4124b5b167a9344360d654,",
+        "color.grijs.700": "S:c38dd14fd2dd6cc97f97c7261a3549fad5cd5536,",
+        "color.grijs.800": "S:3acf53702da76edbb33dafa2b2e90a56834d3d20,",
+        "color.grijs.900": "S:229d79d4bbfe76b29472b260a6aa8c3b24c18d1d,",
+        "color.none": "S:30eb990e4ac63b8106a79e81f9b0e3db477358f1,",
+        "color.lichtblauw.100": "S:2ee6c46ba10fedfaa486bd12c76eaa02ff487e72,",
+        "color.lichtblauw.200": "S:afa829911326cc0a4dd86d6abe49b387470295cb,",
+        "color.lichtblauw.300": "S:f50dd14b2f88ebc0da1c2702d1a4ac17e6693b10,",
+        "color.violet.100": "S:8518d301aab9bb915037c6e05457367692d72ea4,",
+        "color.violet.200": "S:d53a0c1adeff25e45d19f8d17548f3c512ce7f36,",
+        "color.violet.300": "S:995538d79652702b9cdfb8044c73985c829f106c,",
+        "color.paars.100": "S:90e9dbf1adbc78208318f87c58b245165c3b21a8,",
+        "color.paars.200": "S:20891c03c323aa42dad9927611f7a3bfa3d7a03e,",
+        "color.paars.300": "S:4f4c65c1550f0bae54c89ca552e19dcc181c5ccd,",
+        "color.hemelblauw.100": "S:02c590939e23a9ed6eae829b8a56104acd8cdcb4,",
+        "color.hemelblauw.200": "S:cd39f38ccae46de44c02e0d48d7f4ed9acbee052,",
+        "color.donkerblauw.100": "S:7c8fc392508eac0b4eafb23608aa7ac120841bdb,",
+        "color.donkerblauw.200": "S:62fbf0dd7522c261cdfd557a4c52a4c0ad56f912,",
+        "color.donkerblauw.300": "S:caa6caef051252c50212eb6c333f68e5e511444b,",
+        "color.mintgroen.100": "S:f15d951a9223e8ac3524dc390c22b96576a3d1c2,",
+        "color.mintgroen.200": "S:266f9d419df2732b5defe9fbdfcdb220afb30a54,",
+        "color.mintgroen.300": "S:8010c51dcd3e2699daac5f0b602faa3279e76a6e,",
+        "color.mosgroen.100": "S:6159720e7a96ef0c7f4a7c27213aaff191dd4665,",
+        "color.mosgroen.200": "S:d846321584dc71a528c28323d4fdaad14a2dab08,",
+        "color.mosgroen.300": "S:f290ec1e27058cc677a366ab58b274f01421c622,",
+        "color.groen.100": "S:027ddbc2e8d3bd7cd434e7b77bca3ebf2c6f66b1,",
+        "color.groen.200": "S:50cf3862fb70fc4c2a16c4489bfbbd00d0ed7715,",
+        "color.donkergroen.100": "S:54a57d3bcb11878934d87ff8823b0e4136f0b9dd,",
+        "color.donkergroen.200": "S:14bb4862e7295e7d6e1ea5170d591e86746e1e09,",
+        "color.donkergroen.300": "S:1b1a73699fd776d1dd85bbb99c20164d57f7e160,",
+        "color.bruin.100": "S:24cae382d7377f9a49a5630891e0df9ba413f886,",
+        "color.bruin.200": "S:fa25b8f74aea8376b62e4b6339a6d6a095ef1f5b,",
+        "color.bruin.300": "S:f307bc77f10601867430b3c6fb76404e47c5273a,",
+        "color.donkerbruin.100": "S:050c926a2d6ffed4a4a6edb7be43b6c9a6c84740,",
+        "color.donkerbruin.200": "S:40aaef394545bb31b92638a2c3e119de97aca865,",
+        "color.donkerbruin.300": "S:ad44303a84009989eff8288bb1e058e2ad8a7f79,",
+        "color.geel.100": "S:4672688b91335c0fe9d4b11ff3e0d4c15dfe8c15,",
+        "color.geel.200": "S:228565c25cd20450d0d419967d782b44265d574b,",
+        "color.geel.300": "S:b4aec216fdfec8d8612eab3b1ef88a5f95c76f1e,",
+        "color.donkergeel.100": "S:628443e948ca566f94a3209c1b1a947544f2db1c,",
+        "color.donkergeel.200": "S:6cb77e1c593fa6415cac034b3e123514c23ffab4,",
+        "color.donkergeel.300": "S:ea748d004f89edc21f5bc8e45d3206db17fd859e,",
+        "color.oranje.100": "S:03348317851639034aded51b4765d796357a816f,",
+        "color.oranje.200": "S:977ad8e794a60a67b33b85b2959c0c066f776c0f,",
+        "color.oranje.300": "S:00d9edc8a0b0b596dfc8546a9b26788613c0512c,",
+        "color.oranje.400": "S:6a74639f9660a5243521e78d066b3201d314248b,",
+        "color.rood.100": "S:9c2aa23b87408866d9910f933a0780f05c85dd25,",
+        "color.rood.200": "S:90f70e11c6f9ed238a2f22f3091fe996d0d972ad,",
+        "color.roze.100": "S:fb005d2d7c9399afcb54efbed9e8dd07802880db,",
+        "color.roze.200": "S:735676ce0c8636046c0090f592391a5f3661aa56,",
+        "color.roze.300": "S:7b5685122f5b8a3132263a29c0e0b004ab8bc6c3,",
+        "color.robijnrood.100": "S:8daff45c990c4f8d43ef4e5e7e637f41e91d39fe,",
+        "color.robijnrood.200": "S:0415fb3fcf2eecc3351c2e4af23640a0e76393c6,",
+        "color.robijnrood.300": "S:6f7ebd85ab4f9c4185c3c2ecd97e7614ef555c7d,",
+        "forms.input.color.hover.border": "S:98b318aa03ec7472933cfc2051a69a46fb7c8cba,",
+        "color.violet.400": "S:2be63f22226b98bc9a0641e567f7c11a9d44b172,",
+        "color.paars.400": "S:edb88942f97a0e0d28922a0a2fb1c8a4eb4818cd,",
+        "color.donkergeel.400": "S:bdb58053e7eec2bbd2092f56c10c9fe0d24d182b,",
+        "color.rood.300": "S:561ddb8bc9efe95a89c68dd7d4d54abed772526a,",
+        "color.rood.400": "S:e86bd705895d848d3fe48e78d221c758b62727c2,",
+        "color.groen.300": "S:773d28d6ce2842cc1c22b2b1fb51ff7eb35be581,",
+        "color.hemelblauw.300": "S:baced55b2673f9014a035b55f4da3475c25e183b,",
+        "color.hemelblauw.400": "S:40f0c550dc86f1cea13aba0d5f691009b897c59f,",
+        "color.zwart": "S:08b16ac78bafad6a925b0ea2389943278898ebfe,",
+        "color.wit": "S:a0138b73dd5897f67cb9942dc7816820f53da34b,",
+        "color.donkerblauw.400": "S:5fb2e73be6bb12aeddbaf8fea3bf45393555afd8,",
+        "shadow.default": "S:066be6a2f054efebd1942300c0b97ec568a3b83f,",
+        "color.groen.400": "S:3f0afb77e4c24e13fb23e8536c1f3f89fef3ec1a,"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:339",
+      "$figmaModeId": "6:12",
+      "$figmaVariableReferences": {},
+      "group": "brand"
+    },
+    {
+      "id": "3d944389c8bc7e0096e33bdd337454b155bbf3b4",
+      "name": "MijnOverheid",
+      "selectedTokenSets": {
+        "MO/component": "enabled",
+        "component/button": "source",
+        "MO/semantic": "enabled",
+        "component/alert": "source",
+        "component/forms": "source",
+        "component/pagination": "source",
+        "component/link": "source",
+        "default/core": "source",
+        "default/semantic": "source"
+      },
+      "$figmaStyleReferences": {
+        "common.warning.background": "S:6d53d59a1c72d20d5fcc7ba2baa3321ba4b2b331,",
+        "common.warning.icon-background": "S:f66cc5354a86193fcb60c7c46b525739f4fc50af,",
+        "common.highlight.base": "S:98b3af6fb1be6595ef8b1e9611e35328b79adc3e,",
+        "common.highlight.hover": "S:e608c8440740e3aa42f118d73ef66c06cf5bc29e,",
+        "common.neutral.text": "S:7b209dde8d3de037b19c18f70697002801114be5,",
+        "common.neutral.text-weak": "S:9ba72b243c11b9c298b43f4f0f618bcc0f818191,",
+        "common.neutral.text-link": "S:4e8585a078afbd315af5d5851064fc0810cd39f7,",
+        "common.neutral.background": "S:26f15d16095f67496fa1d18a63d4eacd26ad5c22,",
+        "common.neutral.background-medium": "S:c0f6d387eb2fa5712e9261e3da80e72058bd1067,",
+        "common.neutral.background-hover": "S:512db699b5b9123b9bdaa5079c8e50e831df2cc2,",
+        "common.neutral.border": "S:096401b6a7ba69af66bff70956b539a8795ae1f9,",
+        "common.neutral.border-weak": "S:cebcd2225771fc0d8aab176aca0e096c69b6e517,",
+        "common.neutral.border-strong": "S:e73f682389d34e873c7a9ef5da98392079b9446e,",
+        "common.neutral.icon": "S:3c5139ba7a44b0089bac7a6e4594ccc1f9a55ab9,",
+        "common.neutral.icon-link": "S:efb7ae8f424a4c4db2647bf0e2caaa0f4b347ca0,",
+        "common.disabled.text": "S:5cd770b2a91ea8036f3d205b8b5adb42239df934,",
+        "common.disabled.border": "S:72f278e57d43287e277fe9f65d6c594af5b294cc,",
+        "common.disabled.icon": "S:fc0676fa683eee7d230a7919ac4e73b5b2029dd3,",
+        "common.disabled.background": "S:6ca458fc56ed38693a1a4ecc81b02b8090ac9566,",
+        "common.inverse.text": "S:0165c2d1d3dbab76288a569e49a0f10485412a0c,",
+        "common.inverse.text-link": "S:067befcc2ffd8beb0f790ab9664bb50c29dc42f1,",
+        "common.inverse.background": "S:0dfbd42d946cf7e1236816052948f56bab834ea1,",
+        "common.inverse.icon": "S:0cae9ca1b1f59482ee819b6f2bf53a5af06d1791,",
+        "common.success.background": "S:e865d573ef2a0f9c4c51030455c2055a4efbf029,",
+        "common.success.text": "S:5d7b4505d3b31c5ad28d50766e6300a2fcbc8b12,",
+        "common.success.icon-background": "S:0a3e2d3a2255b57c8540694e968943c4673e9ed4,",
+        "common.info.background": "S:eba52ef720fb2e8d50dc707c9b01fc5dc2e6238b,",
+        "common.info.icon-background": "S:6e53c92031b95566bf29bc49fb2c3bb69cc8b1cf,",
+        "common.error.background": "S:16494bacfce9150a6e9bf45b6c3e57a2759b3b18,",
+        "common.error.border": "S:c3962523c8bbc82b466e4a87b667f3be1d6b4cab,",
+        "common.error.text": "S:2988edeaf6ee29da9961f1366dd280031808c779,",
+        "common.error.icon-background": "S:f80fb2b5cb2f9f7c9462037dcb9e44fb807d3031,",
+        "common.highlight.text": "S:d0bd0de34a050abf9c96944df43af544b3ceb4aa,",
+        "common.highlight.text-hover": "S:24b18b24c98e6f5f6cde42077b74a3b7883e06d1,",
+        "common.highlight.background": "S:18a5997eec98094a84db33e4787f11d21f3d7591,",
+        "common.highlight.background-hover": "S:5af5c258fc8f938903ce57dafda84bee75d8c9cf,",
+        "common.highlight.icon": "S:833e54809d5990601c1332bc0d79e31c24b989ee,",
+        "common.highlight.icon-hover": "S:aae6458c58a1f0cfcabc3e0d3c99f6166a32bb91,",
+        "common.highlight.border": "S:00de25d26ea3009f45cca15d7728537ce462e94c,",
+        "component.button.primary.text": "S:d4984d25dc5d25fd7af6fbf92e03a23e42646c32,",
+        "component.button.primary.text-hover": "S:f305e114239c864cd03d845485260bbf51cdc918,",
+        "component.button.primary.text-disabled": "S:ac7b3547503b0da0f3bc8b7386983295304366d3,",
+        "component.button.primary.background": "S:db6a1dee1b187a4e8b751017457e074ad9c87510,",
+        "component.button.primary.background-hover": "S:dfda915bf9734a7e0078f533a61cf975bfd53142,",
+        "component.button.primary.background-disabled": "S:8ea98f97140ea2ff0d2f374b52c6069885625c10,",
+        "component.button.primary.icon": "S:bb40bc66e42a80d013bed4e3c50bcb352db16f57,",
+        "component.button.primary.icon-hover": "S:4cf91a00e57090644f5491fa734ee133d0f9f4ae,",
+        "component.button.primary.icon-disabled": "S:b4cc5eb4d04532c586d042b559bcbb0e3777749d,",
+        "component.button.primary.border": "S:bb918e4743e0e91de22ab8a3f2f01f3970de4bff,",
+        "component.button.primary.border-hover": "S:ba1116d9f6cc006b1db2989992542a743f726157,",
+        "component.button.primary.border-disabled": "S:fd34b47c8f386fdca98ef9518696f394c65d9b3f,",
+        "component.button.tertiary.text": "S:2053cf1934338759a9237e6618d934aa444850d1,",
+        "component.button.tertiary.text-hover": "S:1ddef4e1b509e0b74af07ec706239ef875b37855,",
+        "component.button.tertiary.text-disabled": "S:5fcd40e941d3614079c3582ba86a9c438e3c246e,",
+        "component.button.tertiary.icon": "S:eae18ef467652737d0b68788e73372cfe6f97622,",
+        "component.button.tertiary.icon-hover": "S:5006cc06e8a0dbb19fd4d9cf5ada37436251772e,",
+        "component.button.tertiary.icon-disabled": "S:a5ddbb34b7d73e4b3fbf7ddcd541b78841d2dc4f,",
+        "component.button.tertiary.background-hover": "S:8b1ec278133b6b432a5454d83c67ee0560e3b481,",
+        "component.button.secondary.text": "S:b3fc64f5166f8fc0ca2dffe4a4a5a060afb4e596,",
+        "component.button.secondary.text-disabled": "S:6dda4aaf373a2885dc96d53349c9e0a70f5824cc,",
+        "component.button.secondary.background-hover": "S:7a5b8c52904572d09d1059b8b2add37b31e82459,",
+        "component.button.secondary.background-disabled": "S:39a3945610ffbae68e159dab4af225632cfcd291,",
+        "component.button.secondary.icon": "S:63498909827443fd0108e0b83dc48f7def384a7b,",
+        "component.button.secondary.icon-disabled": "S:df69907dff0d05899d11237c1742f68ef44ae28e,",
+        "component.button.secondary.border-disabled": "S:d807121d8b15bc520b80681ea238a327c09d371a,",
+        "component.input.text": "S:fdca5d3393b391866457cb806221521b84fed156,",
+        "component.input.text-placeholder": "S:ca8340f69e5280ca6f2650cb803fcdc893892605,",
+        "component.input.text-disabled": "S:268ea95dd1a7b6010b3afee37bbc537ab0f5192b,",
+        "component.input.border": "S:4ccf1c55a705138d0e721e71377370e918a2530d,",
+        "component.input.border-error": "S:cd84f0e9071e2d10e9a92f465a379009a7c4dede,",
+        "component.input.border-disabled": "S:9f418c53e72b035d23f2a23d237eee6835b82172,",
+        "component.input.border-focus": "S:1840aef56d8b03291542884e68490054ac37066a,",
+        "component.input.background": "S:3252c79ad645b969512eecabe6e6855f8e962a5f,",
+        "component.input.background-disabled": "S:6334f08049a9d69a47352f8ddf0d4881850df0e1,",
+        "component.input.hint": "S:000bd02c30fccc4be67f3a925c62ed8fa0a42612,",
+        "component.input.icon": "S:af877368cdce03181c2d2ee52289ff1d0732c585,",
+        "component.input.icon-error": "S:cb66ddfd56d79087d1185a159d0c395c943c503d,",
+        "component.input.label": "S:4443692090afd05729ea95ebf24b9696914a1f10,",
+        "component.input.label-disabled": "S:7aa480fb3613d8f45477061f67d84b5509e39865,",
+        "component.input.label-error": "S:27062a246365042feb43931a77fcbe3d032e38e7,",
+        "component.input.controls.border": "S:ba5886ea4fd00844d53e1fe1ded0175519810d6e,",
+        "component.input.controls.border-hover": "S:64a0a0cc3a5bd6bf82895c7a463c1cef6d2a564d,",
+        "component.input.controls.border-disabled": "S:171e09fd8643ad0e945bc92521423d33e762fb03,",
+        "component.input.controls.fill": "S:f9681c3b4c6ab4fc76eb72c13d24a968100e1bf7,",
+        "component.input.controls.fill-disabled": "S:ee9cf349a8fdba8a22f2d59bf13b747885553d70,",
+        "component.input.controls.icon": "S:bea86800a673006da264aeb7ac97fef2204c6113,",
+        "color.brand.default": "S:a77b001959f59f620f94516d5c3770bef58e1d54,",
+        "color.brand.hover": "S:58709975fb7b74a9e66a27de34ded2f35b20d9ec,",
+        "color.brand.subdued": "S:709b56b8ae6a4242efef2abfd43cfef3be777596,",
+        "forms.input.color.placeholder": "S:fd1fc24f975b53efa50a0523665e038c42a642cf,",
+        "forms.input.color.bg": "S:c3c1548bdb8ae8846cbb30020da30ad5f5bf6a6a,",
+        "forms.input.color.border": "S:abd1011c44ecd82febc329579259b92a4d503c83,",
+        "forms.input.color.disabled.text": "S:520bb06e486fa331f37e7cda133ae67802d6e6f5,",
+        "forms.input.color.disabled.bg": "S:ed3b356b77ad92be19ec196de93c08480ef48cfd,",
+        "forms.input.color.disabled.border": "S:2381013b46a2a255a4891c928b6429a70d0a686e,",
+        "forms.input.color.disabled.fill": "S:1d62a99d9708f5c295ad3963468d3bb20a2d7986,",
+        "forms.input.color.error.border": "S:86527f397402195d49e2bf95102dea51dc172373,",
+        "forms.input.color.error.icon": "S:47e5034c2d72bfb3473c12a22ed5f5279f2513ff,",
+        "forms.input.color.hover.border": "S:bb8cb0e8a72e9a0c9713fcc7989014c09849ed5b,",
+        "forms.input.color.selected.fill": "S:98a46d20d6227cc0ddb6e566324d3dfe01b5e000,",
+        "color.border": "S:6c3fa8837625ce3d9e3e6dbf94a037ffcf4df497,",
+        "color.canvas": "S:980caa60911d3bcab050f04e874dc3246b3e8747,",
+        "color.subdued.border": "S:608e87c6536174d35461756b200eaf5663c21761,",
+        "color.feedback.success.default": "S:bfe8e58c8435fe028b61987c139c196abfdbc77a,",
+        "color.feedback.success.subdued": "S:45bd2d8471f6b68bbaefa4b80e502271a1c16f7c,",
+        "color.feedback.info.default": "S:dbbfd9f309512edb33a9a6655f10852970657ce4,",
+        "color.feedback.info.subdued": "S:0f24b34a07e6917d964268d1b1ff8579b0115e2c,",
+        "color.feedback.error.default": "S:9fe1a92b8e4b52669d2c948a876ddb785916ec3d,",
+        "color.feedback.error.subdued": "S:0d0abc47f74a6a71c0573a0af5e3c4da74d6a1b2,",
+        "color.feedback.warning.default": "S:2caf55338bf1b0af574c7be9f9624d5dfe7d04a2,",
+        "color.feedback.warning.subdued": "S:60dd6392e18fc9c2be5c2c3a91f9fd473a3c2343,",
+        "color.grijs.100": "S:0701fca4f1bf47c214c9cde447bda0b18320c6c5,",
+        "color.grijs.200": "S:f41d5f11bf1ae93d26824ef419907063dd9eecb5,",
+        "color.grijs.300": "S:cbfab8967724d33833163800bedafa892f2eda42,",
+        "color.grijs.400": "S:009e42102312cf3acdbeb993b742a9072ce55fcb,",
+        "color.grijs.500": "S:86afb85c8b8f277c7601d0b725fd1f5b69c97538,",
+        "color.grijs.600": "S:36b4a7198040d083789f9beb06b866efa0568372,",
+        "color.grijs.700": "S:53f2ef8e6d952be847e04aca096ab1e35163b152,",
+        "color.grijs.800": "S:58bda5d33c674a8a9924f5a9226f53c7df2d7151,",
+        "color.grijs.900": "S:5ba1697d6e115a7e0f2a27862a01e7b5c8d26cce,",
+        "color.none": "S:626cc1a36ff6f44f6c117fe4304fb49d7e4a05e1,",
+        "color.lichtblauw.100": "S:d114ad1ab8d910bcaecd0f8f2451a3afc5140592,",
+        "color.lichtblauw.200": "S:7f5a84b90634706e6ae47b5ae0c7ce7d226b5f69,",
+        "color.lichtblauw.300": "S:951bfa36d776a7f6609601feb782c63d57d787a7,",
+        "color.violet.100": "S:e800dce7a9474ef41cd17a85fb280a6c1b7ce4b7,",
+        "color.violet.200": "S:3c8746f9f9a3bf21bde8e0499b864621e0958384,",
+        "color.violet.300": "S:cfd6839f326bb49e99a349c3210b3a0b195ff629,",
+        "color.violet.400": "S:4721faad21431f539c9da2a1c5cda34c975436de,",
+        "color.paars.100": "S:4592e5efb7d2146f08b4cc86fb90c5229094c957,",
+        "color.paars.200": "S:6aff62f8eb5ffcd84055224ffd7367011b1c9a99,",
+        "color.paars.300": "S:97f652baee33c9b96ca60be5329f675d29438482,",
+        "color.paars.400": "S:cbe99538b9b2b8b42f9850e56fd5a0dfa77349e9,",
+        "color.hemelblauw.100": "S:029ea3d7298d67e18c15fcc9c9e39126d5f498ba,",
+        "color.hemelblauw.200": "S:2c6daf29b80722a39767793cab076a32c66d384e,",
+        "color.donkerblauw.100": "S:9130d2cd2c1015ebfcd359e06a17861a52c7bcc0,",
+        "color.donkerblauw.200": "S:e21027cc0d7f48f95086090dbaeeb7fc92d86275,",
+        "color.donkerblauw.300": "S:b9489266971318d03f4817d6c0951bfa26070c8f,",
+        "color.mintgroen.100": "S:162899fb8fb68870f550ed2078244761ddeeb98f,",
+        "color.mintgroen.200": "S:a39ef845bfd8a8aca7586725b9c11d2977468020,",
+        "color.mintgroen.300": "S:e7f710d80efd6878fc3f779f09843ea9b572c030,",
+        "color.mosgroen.100": "S:4f8391524a959a665a8e8c92b4c69b003965db80,",
+        "color.mosgroen.200": "S:659cddacfed37403089e3bc508bb607239588e56,",
+        "color.mosgroen.300": "S:5d28f7d00cbbf2ac170c72852f4bd76e13c0cca7,",
+        "color.groen.100": "S:01b6f7e74b0a4b8f01e708615dcb234918c992e8,",
+        "color.groen.200": "S:75827b521ff138eb58bfae0442dcfa60642c5165,",
+        "color.donkergroen.100": "S:359f5fad5855b3fd386331d7b33361ed3d8d8e27,",
+        "color.donkergroen.200": "S:07b19554463118249fa0ee9fdb18253b1ad276ef,",
+        "color.donkergroen.300": "S:065cf30c12182413045597c208b62c7d2014630c,",
+        "color.bruin.100": "S:df24f99c28a635322ef172a0655648ce9851cf60,",
+        "color.bruin.200": "S:53f5a1de780929829e4d66a42651f3651998c1c7,",
+        "color.bruin.300": "S:728a63faab862e4bf79a7253806463d611c1adb7,",
+        "color.donkerbruin.100": "S:22601a4ca66773474e056e0f139acd188baa75f6,",
+        "color.donkerbruin.200": "S:15cc46138aa120aedca1337df0652880219ff7af,",
+        "color.donkerbruin.300": "S:4be6fd95b60bcc888c5ddb2455ad7575887ab3c5,",
+        "color.geel.100": "S:6c779c36e9ab00b915ddb48433c826a9573905e6,",
+        "color.geel.200": "S:8df202a1c00834eeeafd284553addcebbdbf0c40,",
+        "color.geel.300": "S:961d41ba597694d1495f675e272cfcb01428c323,",
+        "color.donkergeel.100": "S:f96a3507f979fd848f0d597b5c9388a54d0e25ef,",
+        "color.donkergeel.200": "S:10dd9811442d2bf740ff87fdf9ca90ac9d1d43a4,",
+        "color.donkergeel.300": "S:d66aa12560f4fbfce7977d7f0b7db40b4c07f0c1,",
+        "color.donkergeel.400": "S:84643cf6384ccfaba01a6e2da54c91c66f97ef40,",
+        "color.oranje.100": "S:df3e3b22244cfb9ec3694959b33f057e0ed31f80,",
+        "color.oranje.200": "S:d593369fe1f055ac7a2431210af7b19dce2b1b89,",
+        "color.oranje.300": "S:cb974b050d43a668bb2f1b4e4611fddf08bf5918,",
+        "color.oranje.400": "S:881b7001281a91f122ef22118e64384e444a3a5f,",
+        "color.rood.100": "S:66f6fdf703f5b37bf3a222cabf7d780619e674a9,",
+        "color.rood.200": "S:e484559bbcbf4c0022d8ae9e1a2239a5ad2148ed,",
+        "color.roze.100": "S:5201ad0202e8bd61fa620540708d6279a7341643,",
+        "color.roze.200": "S:000a0d4dda74df8ed132a9365bb4d20abba774e5,",
+        "color.roze.300": "S:0bc1d3753d17e7093b5577d4f6a483265d8ec977,",
+        "color.robijnrood.100": "S:26427fbf3da88b461fdaa30e7b3714622794d44f,",
+        "color.robijnrood.200": "S:a131439e62b6ca2e74571c98b767927616b40928,",
+        "color.robijnrood.300": "S:59697118f21dd10319a590ac5f5577fe68af4ca3,",
+        "mobile.text-style.input.label": "S:65a080f248aebb8b80382aeb1e6890d57d8f7c16,",
+        "mobile.text-style.input.hinttext": "S:b93443b0e66885ba21d46ed7b3f0fe6a4d4a0637,",
+        "mobile.body.s-400": "S:ad409599c0026e7d009982270cd5372b5d0eb704,",
+        "mobile.body.s-700": "S:dd22dd860e8b44e9a7843c942aca2a91c3165e06,",
+        "mobile.body.m-400": "S:ff7348d81b9f1d2ad0bb680457b34c0eb4ce63aa,",
+        "mobile.body.m-700": "S:66ec0e17ef18d6e13e917fb51ecf642937eb32be,",
+        "mobile.body.l-400": "S:a5f2fed4109107220d20c1fa16ff48296eed660e,",
+        "mobile.body.l-700": "S:def49d80795d028630415c28f33c696f7aefcccd,",
+        "mobile.paragraph.default": "S:8b43c996ade186eafc103a463323d06538444af8,",
+        "mobile.paragraph.lead": "S:93cd0341cc0420da6e412bdf926e036e7515ecca,",
+        "mobile.heading.level-4.700": "S:76a23fa5b0c539638911b159bee92651ad33de11,",
+        "mobile.heading.level-3.400": "S:b96ccea8906fcebb0c4994365007131ff6012552,",
+        "mobile.heading.level-3.700": "S:04713f598ec8d42ab0569d6f84e548d581b2fb5a,",
+        "mobile.heading.level-2.400": "S:8067f98ca9d22834117b0fc62251b093ecb99c26,",
+        "mobile.heading.level-2.700": "S:3282b4eb87f2cd08c66ea8b213aa8a932d4a121f,",
+        "mobile.heading.level-1.400": "S:4bbbc5d41d4c1ede52922564c044558c6bb56e8e,",
+        "mobile.heading.level-1.700": "S:9899304c6ee68c283d7b7a1c26f20450deb87e8b,",
+        "color.rood.300": "S:e3a7be49cafe285146881865a4130d45aeab47a0,",
+        "color.rood.400": "S:14490eed3d3d4c68ef4c980da54ca49655090b22,",
+        "color.groen.300": "S:1ff9ca72520909d736e0338f1b61912c3e0ac90d,",
+        "color.hemelblauw.300": "S:062213352f5584f3aa4a99d3bb29a24df582a882,",
+        "color.hemelblauw.400": "S:63ea3b00863bdea5c2ae504fcc6fd30a03900034,",
+        "color.zwart": "S:d18033e68094314cfed84d2195f64afa450b6848,",
+        "color.wit": "S:dcf86f8a40c000036f91da6da126e4c5505b24ce,",
+        "color.groen.400": "S:ee3f774bb69166137529b82a8c3197284a34aaa8,",
+        "color.foreground": "S:3cadb2d95187de4eb78dddba3dfa3a8f2fb90cfa,",
+        "color.background": "S:28256078a97bfb432a0c39da534e0ddddb1ab07a,",
+        "color.onEmphasis.foreground": "S:04b8ddc8a94730194d0363ff6d0b6c2b642e6f9f,",
+        "color.subdued.foreground": "S:2da7bf96f7c159410447b896e085144918ca53cb,",
+        "color.subdued.background": "S:45487b836ffd448826016f6fb1fd5894a732f2f8,",
+        "color.hover.background": "S:4fa33810f036e737fb54bd6efc0dc68d2039e515,"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:339",
+      "$figmaModeId": "6:13",
+      "$figmaVariableReferences": {},
+      "group": "brand"
+    },
+    {
+      "id": "89efde731b340b1c335cabd41549f3f8ffd148e5",
+      "name": "Digitoegankelijk",
+      "selectedTokenSets": {
+        "Digitoegankelijk": "enabled",
+        "component/button": "source",
+        "component/alert": "source",
+        "component/forms": "source",
+        "component/pagination": "source",
+        "component/link": "source",
+        "default/core": "source",
+        "default/semantic": "source"
+      },
+      "$figmaStyleReferences": {
+        "common.neutral.text": "S:ee6373076460d4e83516baf4cd2e09fbeb88da5e,",
+        "common.neutral.text-weak": "S:90023d4247e5a3da6347c581816e85037408aa19,",
+        "common.neutral.text-link": "S:223acca4ebfe74b7825c65e6be1d15c228d8d3af,",
+        "common.neutral.background": "S:580b5c8b9fed93a5bec1bcd37d936f7979e83de8,",
+        "common.neutral.background-medium": "S:58374bcd4f439ae23e11fd61267205489fd199f2,",
+        "common.neutral.background-hover": "S:8a0b18f63bcfb2d8698244cf729998434ca8641a,",
+        "common.neutral.border": "S:13b1a4dae0f19282905f4f4576e8b06033b5138f,",
+        "common.neutral.border-weak": "S:ea2ef4ed88f10e6b967d2b14e1f71c77c713d89b,",
+        "common.neutral.border-strong": "S:ae5530baca7cfd177b16e62c82fb21920a967130,",
+        "common.neutral.icon": "S:98e90a352aacef999eab5be8aec3d784d4e82ea9,",
+        "common.neutral.icon-link": "S:269748d29828dfa9f26d35f4bb494fcc51443dea,",
+        "common.disabled.text": "S:901d8b5d46b16e9a37bed63522d6399350216c3d,",
+        "common.disabled.border": "S:b4e1e2413e3c853e2aaacc26c462b8fab6deb526,",
+        "common.disabled.icon": "S:30192dd88b9aaf68e4c665588607a23efb31b13f,",
+        "common.disabled.background": "S:4ffb55fb901618c07dd69e42cbdc500b058c095a,",
+        "common.inverse.text": "S:a6f5dab6ea4430490fb7d3249fc1322bd13b0b35,",
+        "common.inverse.text-link": "S:a7c8558de72366d7314104de6a7c10aa9b9308fc,",
+        "common.inverse.background": "S:f4bd51e99f8c0cd0c89be427ad1d53d85c6d5bf5,",
+        "common.inverse.icon": "S:19e72abcef3982f8bc8dc3b43f1781e2a1ee2489,",
+        "common.success.background": "S:8e4ee0e9a692847f42710894bfed43ee7bed0c07,",
+        "common.success.text": "S:41dacece91d3f74b5378884e3d91557d89fb7d06,",
+        "common.success.icon-background": "S:9764668c85208274e971d5044df0e0f381a9fb2f,",
+        "common.info.background": "S:cf335ac30caca5aacafe110a4ad9f3a47f7bd1db,",
+        "common.info.icon-background": "S:6927e36ca239c247499030529ec0c77fd5d879f4,",
+        "common.error.background": "S:1e8fc694d921332be4a1aac4973c800a83849e31,",
+        "common.error.border": "S:3757d07e1439e520210a85f75f48bf1d8c223c55,",
+        "common.error.text": "S:691b38c9bcaf41fdc4e6d1e302e9bde5c464a561,",
+        "common.error.icon-background": "S:fd23a07c6576ea2862786eb3f8672c1f57b73564,",
+        "common.warning.background": "S:eb9036886d160ef52422dda17a1dc08f2f1304da,",
+        "common.warning.icon-background": "S:719c5d272270d7a425340f426d0b31a659d04fd6,",
+        "common.highlight.base": "S:72e8ed51f7c21b59d5439885e1e250f8a110e011,",
+        "common.highlight.hover": "S:09da211e686fa869fd606ead51e0309ed1dbea7c,",
+        "common.highlight.text": "S:7828abfc57d544d94a266648b8d73f0ca32bfd0e,",
+        "common.highlight.text-hover": "S:2d06e3eadf1f110938e55a15a88507f1c8ac3dd1,",
+        "common.highlight.background": "S:4ab4184a0a371073db694d97bc9ec0f528783522,",
+        "common.highlight.background-hover": "S:708ae3e963832ea5176312af2e079cbd506688a7,",
+        "common.highlight.icon": "S:81d2f9787a8f011443e26a1bbdb60872a12f219c,",
+        "common.highlight.icon-hover": "S:0b2c8005984d49d326348e926394cfb6a134795c,",
+        "common.highlight.border": "S:02dbf8114cea296ccf1d7c517f166eca85786932,",
+        "component.button.primary.text": "S:388e7060dfb708f4b7d833af1cf6341786a021b0,",
+        "component.button.primary.text-hover": "S:7694604e0ecd162c620547ef467623b4fa88aacb,",
+        "component.button.primary.text-disabled": "S:862ed073faecdc64a72d612ead7040fdfb8640ea,",
+        "component.button.primary.background": "S:e0572edf4073e917178a9090144f2976de4bc5dd,",
+        "component.button.primary.background-hover": "S:0afdb69c0ba373a964c80eb3b2b4954627bfa8b4,",
+        "component.button.primary.background-disabled": "S:c0ab18c13a0629edc8936ea882cfa40c67787a51,",
+        "component.button.primary.icon": "S:ae74f0c92f122720cef9bb02b510eb795b3b7101,",
+        "component.button.primary.icon-hover": "S:920aba7d3c480dbeb184f3ab696313f2e3e5fc61,",
+        "component.button.primary.icon-disabled": "S:58f5b8055a17d6104d8acfefbf7f956b4c074400,",
+        "component.button.primary.border": "S:de2e75f30c306215491808dc4b0ce80cefca8c07,",
+        "component.button.primary.border-hover": "S:28f5b492a6d31e4efeb98820ba9fcbdd76acac56,",
+        "component.button.primary.border-disabled": "S:42f2444301e0715d36aff208e935ebfc56211305,",
+        "component.button.tertiary.text": "S:3cbe2e7352604d43024cd8cb5af2526174b2bd77,",
+        "component.button.tertiary.text-hover": "S:eba44c9f892d045a5018ee25d4a1753b75e0ba9a,",
+        "component.button.tertiary.text-disabled": "S:9aa6294e79f73c3a80b919579567c966f5fa1000,",
+        "component.button.tertiary.icon": "S:9f58ec044988eab779b9f9824012f9d3c1f1b361,",
+        "component.button.tertiary.icon-hover": "S:99f1e431629c585ddd25104aa81d5adac04f94be,",
+        "component.button.tertiary.icon-disabled": "S:e0c3f45e6b31dbbd38d69e8020c3c5c7e094ff11,",
+        "component.button.tertiary.background-hover": "S:008a5bb6ec93931de71f1325158747815a5d735b,",
+        "component.button.secondary.text": "S:96896829aa245c03c578d9e0030d5e632b193be9,",
+        "component.button.secondary.text-disabled": "S:d09c8ef0c7b9463e2eedcbc34738149789a41643,",
+        "component.button.secondary.background-hover": "S:cd4f1cba2395a412a7211f976fdee3b50b391388,",
+        "component.button.secondary.background-disabled": "S:790b4cfb353cde2ddbcd0a5d4669278bd6c0b100,",
+        "component.button.secondary.icon": "S:b40f627dc8e0194ad2fa890a8df4bcd1d6ed40a5,",
+        "component.button.secondary.icon-disabled": "S:64a658d91b418b4068f63252ba1f3d027ed21d55,",
+        "component.button.secondary.border-disabled": "S:fcad74d4427060164539e7554ec4afc222459cdd,",
+        "component.input.text": "S:e0e95dadcc77b916407eddde14bda4932331cc7d,",
+        "component.input.text-placeholder": "S:e5199f723db470f4c39c2dae0da2b564a6cbf1fa,",
+        "component.input.text-disabled": "S:9747b2fec208599820198acc828a5102f6a656d8,",
+        "component.input.border": "S:a1ea7bc180eb7d5b3e8437bb30672578008a6eb2,",
+        "component.input.border-error": "S:cf6b22739a91e180ebf12f61f2384acf5605aec4,",
+        "component.input.border-disabled": "S:5fbbe56e4dd34f888ae88d3a1c7029fa702bd9cd,",
+        "component.input.border-focus": "S:c9217836389c1daca58ae745e93048ce59997325,",
+        "component.input.background": "S:e6468810e292b6123e2831edbd1070c696befc75,",
+        "component.input.background-disabled": "S:d792793d2e39eadcd7941c07e46b652df901e20a,",
+        "component.input.hint": "S:969fe7f045eb3f238f7ab3090983663103392f43,",
+        "component.input.icon": "S:885098337d357aaab176e4754f01b9c96115c2d1,",
+        "component.input.icon-error": "S:4308617979355258583759bbe786cc4a5466d772,",
+        "component.input.label": "S:013791159bcfe23113cbace6a78032d2169bb760,",
+        "component.input.label-disabled": "S:8b2d5eeb643f07ab90b28f3537f76ccf80776e0b,",
+        "component.input.label-error": "S:8815018d4022cfd3907253682413725699848be1,",
+        "component.input.controls.border": "S:f6e3add9967c5765fb031f3f017512805d0d00e4,",
+        "component.input.controls.border-hover": "S:1e83a0ceb5160e2ad84756e7e7eddbb0d586032e,",
+        "component.input.controls.border-disabled": "S:06641f0872b44383b96a4ac3f52c5ab88789218a,",
+        "component.input.controls.fill": "S:4e51a642b41c7a0f27c3f97215e894e012d1a265,",
+        "component.input.controls.fill-disabled": "S:a0138c6fef3f601c7bd681983af6c0aec067f59e,",
+        "component.input.controls.icon": "S:9399b1713f14a619977c603000f1b1aa47ed32ac,",
+        "base.grey.100": "S:5b34b3775531df52c35b3d77b3cfc15a020c58d5,",
+        "base.grey.200": "S:15e35b3ddfc496d2d7b56a07b43ed7367769aba0,",
+        "base.grey.300": "S:6a878d083da4ccbbc914a23b30d9919a2f9b4235,",
+        "base.grey.400": "S:8f94a7bcc808c03cb2f57f9a8b6a04cea8e99b9b,",
+        "base.grey.500": "S:ec259d615c2c26aad0be7cdd4ddb80d7d1bacd78,",
+        "base.grey.600": "S:52309deaaa60e20def34fdbf99bddec63ea5acf9,",
+        "base.neutral.black": "S:05bb7176bbec9d1422280b187c0da51acaf53297,",
+        "base.neutral.white": "S:4dbb181f1bc4e6c5e32f7b3174a494405fee62dd,",
+        "base.lichtblauw.100": "S:4c6b99014dc696846b9fd94134e8d2bb4dcac475,",
+        "base.lichtblauw.200": "S:9f944c36fbf1214e3d767b2e803b51e7cada11dd,",
+        "base.lichtblauw.300": "S:861e0f0745663472d358ae1f6d9c72a9ec3e2a06,",
+        "base.violet.100": "S:68c2eb7a064584ecdc8eec496f293280e4d51ae1,",
+        "base.violet.200": "S:c6ef6188751399a2500efe4cce39da65742e5b81,",
+        "base.violet.300": "S:58e34b17f3539ff4b3c9f580d37bffcaf4549a66,",
+        "base.paars.100": "S:227e4a6a6535facdbd30efebd2a7f6c7ba8974d5,",
+        "base.paars.200": "S:e05f62fbabca3fa80ac6d1cf95a64910d3d9c22a,",
+        "base.paars.300": "S:43718e30c446fe3a80487eeaab77b90b6e139386,",
+        "base.hemelblauw.100": "S:6ab63e1ce936922d6510cc8f084698374347b7f5,",
+        "base.hemelblauw.200": "S:59e701d8dda9c4197b53454ce8102851366fc8a2,",
+        "base.hemelblauw.300": "S:cf6b28b74d373c28c5acca3d42a8a16d6a9ab933,",
+        "base.hemelblauw.400": "S:8aad723dce5d2e75cf75ce8c6f680d25089212b6,",
+        "base.donkerblauw.100": "S:a366ccda9d8ce4161418fecef3f210b1511fdc7a,",
+        "base.donkerblauw.200": "S:617561c59e7f0f49eeb5650193abf6bfa3fce7a0,",
+        "base.donkerblauw.300": "S:b48ec63faffcf09048289088a5ce1bbd5a27591f,",
+        "base.mintgroen.100": "S:0cbfb6555ec120811e6369406fd1cdb39f7243e3,",
+        "base.mintgroen.200": "S:bc729eff4254ebdc5c621ebd117677696f913102,",
+        "base.mintgroen.300": "S:8ddc3c13cede46956ba8e37c7f924a8b87be153c,",
+        "base.mosgroen.100": "S:a0130b47797e153143d4f0e793397a916c240bac,",
+        "base.mosgroen.200": "S:f512bf9df249a5db33ac3de53e8663a343022934,",
+        "base.mosgroen.300": "S:3bc0504a5c0698bf69ce35c77fd964fd558d6245,",
+        "base.groen.100": "S:f6fe4c69a539f4cecdfbdbbc6d236db1198eb0ce,",
+        "base.groen.200": "S:ff7516115b82d1a435ba8ce64e60bc091effba1f,",
+        "base.groen.300": "S:9f1504618f0ce3b366dfcc82cbf5ad7d8625e242,",
+        "base.donkergroen.100": "S:f7ed43fbc1472d9bd46ec81228d58762cde9fb03,",
+        "base.donkergroen.200": "S:68251edfa33def7afd1f6adb1f4bf1dc191c620c,",
+        "base.donkergroen.300": "S:3852b8d79d18c5ce8021cebd7fe9c6da40643fe4,",
+        "base.bruin.100": "S:016797db4a37d19b2ac8fdcc4344565e13d55721,",
+        "base.bruin.200": "S:685b3571e87f3b59a0053ffc005a56a5577db8a8,",
+        "base.bruin.300": "S:e6cb848b2d36e0da318f2890985abfe66d0c8d90,",
+        "base.donkerbruin.100": "S:4b8baabbba9c4b422df4ce967b6ebb521c6d1621,",
+        "base.donkerbruin.200": "S:21321ad69a10afe972f0f0ccad3d4f4d172beb59,",
+        "base.donkerbruin.300": "S:7dbed0273455508cee46feff79437a8b2f5fdf77,",
+        "base.geel.100": "S:ff5f5ce0c6df74dbffa3d46adcbbd63946ee1633,",
+        "base.geel.200": "S:e0cc26fe44bd334f305c842cf2493d04fb15f8f8,",
+        "base.geel.300": "S:e3d7a7a6977113d1d4b8cf27badfeca7ddbe8058,",
+        "base.donkergeel.100": "S:312f84c4f08bb0ca8d04c89fc5819fa9f172f3bc,",
+        "base.donkergeel.200": "S:1326e478b795f2de3e837188d57958c1fc3f55cc,",
+        "base.donkergeel.300": "S:b1fd1a1bc051f6b1854d504c630682a4d3ba04b4,",
+        "base.oranje.100": "S:c15dce56d70b2d4cf6a117a91c0705154b18555e,",
+        "base.oranje.200": "S:b8d39de44a9b0b76846a526417793d5722977904,",
+        "base.oranje.300": "S:2b4ddf70de1aebdc11703bba1954a86fad7ecacb,",
+        "base.oranje.400": "S:5329a376889e98223e7a7cceb8020917e7f3e50c,",
+        "base.rood.100": "S:eff4169f1bf5684384794452d17e8eed7b3278ce,",
+        "base.rood.200": "S:756bcab55579978ffcac835286a2debd6cef77b4,",
+        "base.rood.300": "S:123d3bf2eae4a2d136cecff0c9eb6e8a68d1a6e1,",
+        "base.roze.100": "S:7335b18350dc235b06f8476a50b971816d7450a2,",
+        "base.roze.200": "S:3f4a1060fd54efb6ff418784f4da44ef20b54808,",
+        "base.roze.300": "S:57e8049a5ab3c18585995d56f2ccd025068aac5f,",
+        "base.robijnrood.100": "S:2c948c5c0783bf414a0b05ed6b6fb1ce765b6400,",
+        "base.robijnrood.200": "S:ed65e2c1dbdbea42402bd76b9ea3054faaa51ae9,",
+        "base.robijnrood.300": "S:f14c7e7c36a03e3a6ad19e8388afaa46290c1d28,",
+        "common.wcag-state.a": "S:5243eec0b2971d045e2666f477cffa3698e0370d,",
+        "common.wcag-state.b": "S:9e221be3a403f39a6aa7ac454a5588b3fee74e9f,",
+        "common.wcag-state.c": "S:ec645f0f3ab5884ca9e5d7314fd943074486118a,",
+        "common.wcag-state.d": "S:974ea3185a3735637800878b1b76156a2cec99cc,",
+        "common.wcag-state.e": "S:01305597dde86cfa7a7429ca52b2ac85b463d8e1,",
+        "base.neutral.transparent": "S:9cf99b02763c6dae9397e4e21d86d595b4c7dbeb,"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:339",
+      "$figmaModeId": "6:14",
+      "$figmaVariableReferences": {},
+      "group": "brand"
+    },
+    {
+      "id": "f5b6c8fb09c0a683c6037de2c2b4bb8c553ff9e8",
+      "name": "DigiD",
+      "selectedTokenSets": {
+        "DD/component": "enabled",
+        "component/button": "source",
+        "DD/semantic": "enabled",
+        "component/alert": "source",
+        "component/forms": "source",
+        "component/pagination": "source",
+        "component/link": "source",
+        "default/core": "source",
+        "default/semantic": "source"
+      },
+      "$figmaStyleReferences": {
+        "common.highlight.base": "S:f8f46a43b805f4723eadb8c5fb2b20b8f220376c,",
+        "common.highlight.hover": "S:e73e5e6da774df60ae9c3bd3ef122bad7628d455,",
+        "common.neutral.text": "S:8dfc9b498280e8c62230f3fb88540083a9a51256,",
+        "common.neutral.text-weak": "S:7af472a5f8bd046a989b0d3628f66a8ba222c4b5,",
+        "common.neutral.text-link": "S:36346727c2a3d97ca895bf3e483d4e338c8cfbf8,",
+        "common.neutral.background": "S:6d3502c4ebc61f1e1106eaf86d4a3f6d87e394e0,",
+        "common.neutral.background-medium": "S:7c9438fdb03fa7ac62b41e44b5332861fd54895b,",
+        "common.neutral.background-hover": "S:ae01d163e7a69b3cf63f4ab1a6e345b875416e66,",
+        "common.neutral.border": "S:d69338e469dc8b764c38fb81286df565c83b3447,",
+        "common.neutral.border-weak": "S:532d73d2b37235e99671ae1ae24b0f12d5b51976,",
+        "common.neutral.border-strong": "S:10611f8c2a6182b1e13751616d34f009c80b58e9,",
+        "common.neutral.icon": "S:0a8594cd4323c4b85c0088ca894ae93ffd49a6c6,",
+        "common.neutral.icon-link": "S:067ecb250ceaac78f02e81963b76eb428dc81c25,",
+        "common.disabled.text": "S:b326e56f411ef3d9a8010ad00db6daf3fdde83fb,",
+        "common.disabled.border": "S:219f114352112c1496a04238741a9fe63c72dcfe,",
+        "common.disabled.icon": "S:f92e120fdc321f8e4a90fb7e9f67375e3063acf0,",
+        "common.disabled.background": "S:83276778dd7643889feca8f15c6082b6315e3790,",
+        "common.inverse.text": "S:722fba06b44f37c403113b096254ecb3d9aa3dc1,",
+        "common.inverse.text-link": "S:9ab845a2661cb64bb6cd1473a044e728277fef9f,",
+        "common.inverse.background": "S:e4406bbec753ee4a161c5f5f6e8a4d696b04e4c5,",
+        "common.inverse.icon": "S:0d00209a00d0748b4e701379dd0033f43378f877,",
+        "common.success.background": "S:1d4dcf9aa1c8a14f1bf60213fa56ca2b0cb9be5a,",
+        "common.success.text": "S:3e4fbc25a333daa87ad5291570e8ac74d964d6f6,",
+        "common.success.icon-background": "S:c12c96c0644c46f85364edf70c478a48a0ffa5ed,",
+        "common.info.background": "S:1170c7849bf1cebad3a61449c67267b0d98b68ff,",
+        "common.info.icon-background": "S:0ebabd7abb266655efc4fc5be1ad17180d2cb39a,",
+        "common.error.background": "S:7ae731ed6d55a8411f682c28aa743226715def43,",
+        "common.error.border": "S:af8bc66b89ae149fa73404f0910b5c1df4f4d810,",
+        "common.error.text": "S:821810b06621318f4062fc9934df4697a9b93e29,",
+        "common.error.icon-background": "S:e2090b72346c814ceeafd6abdbd9b27a7e983561,",
+        "common.warning.background": "S:a90692d12f8cfae8ec02dbeba30d6a45a082d316,",
+        "common.warning.icon-background": "S:a46eaba175b4da30fb6a3ff8ce2a0eb2a8ced021,",
+        "common.highlight.text": "S:2f9da7cf211f13543679be6c83de2dd1086654a6,",
+        "common.highlight.text-hover": "S:4a1e1519cd8db6118df50f2b4002827fc43c9615,",
+        "common.highlight.background": "S:2199123af7508c511100e43af071beb9b828e770,",
+        "common.highlight.background-hover": "S:f3e7262a342578df7928f4662a717be92d3cd72a,",
+        "common.highlight.icon": "S:dd03e725140ee93e16b11a4add4a7789f45d197c,",
+        "common.highlight.icon-hover": "S:4a7688138f568d1742a1c982448223bbb1946a09,",
+        "common.highlight.border": "S:615fcd76b56034ec8349fc92747ac2237e513cfe,",
+        "component.button.primary.text": "S:bcb2fcca8f388a6f0f04c516b6c4b750ce46ee47,",
+        "component.button.primary.text-hover": "S:854151eca4ac3025a7820d4d89fa153f3bf6e267,",
+        "component.button.primary.text-disabled": "S:4f3c4b0e8b0460bf61676a9d4d9eefb0cf163ee7,",
+        "component.button.primary.background": "S:fd68482268d51e143b7c8b2c2515ae39cf4132c6,",
+        "component.button.primary.background-hover": "S:3e776d4a9d3fd236776d966fcbcac0b8cec22dfb,",
+        "component.button.primary.background-disabled": "S:dbed87ba9560b7b3c6a87c9da43970161f5cc467,",
+        "component.button.primary.icon": "S:65d1bc0c42ab7dc41b7ff69a79e8c28c0b1be626,",
+        "component.button.primary.icon-hover": "S:69be57da6148e77942f6e016a0317c91cc3cc9dd,",
+        "component.button.primary.icon-disabled": "S:b50505ce7524fef0f79501a3afe2412cb5ead815,",
+        "component.button.primary.border": "S:50c5e11bbdd778a91efa33f8faa4af7214bb3e66,",
+        "component.button.primary.border-hover": "S:59376c9a444cc863a49042afb97cac33c1df2916,",
+        "component.button.primary.border-disabled": "S:8b484daf92cccce838bbbd5ac9010a5bdfabafbd,",
+        "component.button.tertiary.text-disabled": "S:ca4dbe5cdcce502be21f1bba0699383214b9fc73,",
+        "component.button.tertiary.icon": "S:31b1f000a5ccb6d56bf2c9e826222e928b6caa98,",
+        "component.button.tertiary.icon-hover": "S:375e7ab609fb6a8bd66f6617926283eebc37fee5,",
+        "component.button.tertiary.icon-disabled": "S:43299afc3d9b438d3e170f47bf770e495892fc6f,",
+        "component.button.tertiary.background-hover": "S:36edae10b9c9a551a91ef3fedc9d2674394c4000,",
+        "component.button.secondary.text": "S:220812005f5cdd52bddc4922975310aeead7e36d,",
+        "component.button.secondary.text-disabled": "S:2ec1513e842c66bcb3d2666b77d74ac6acf9c677,",
+        "component.button.secondary.background-hover": "S:caf77e64ce57ea9ffa2a1cdd8847a94e7d468038,",
+        "component.button.secondary.background-disabled": "S:4285045a7ff91f93c01b0984fba603c70efa9890,",
+        "component.button.secondary.icon": "S:46c4e6f42994f0a8b4c54c06ced39db14a81ccda,",
+        "component.button.secondary.icon-disabled": "S:9ee8591c018b1b0f21f6dd03ce3c5d7ed102d7b6,",
+        "component.button.secondary.border-disabled": "S:61db6fb17b08afa7a28420d8f5b5507baec52e1f,",
+        "component.input.text": "S:f91a9d40954ee57f7cdaedb312ed3de6652e3106,",
+        "component.input.text-placeholder": "S:6d52a1b47b5d0e686c036330d3b771b3ece46cd6,",
+        "component.input.text-disabled": "S:ef6dc0985b8271848208738b135d574fa7d9bb6d,",
+        "component.input.border": "S:7d726a451a295490d30264ec6305e092a5e26402,",
+        "component.input.border-error": "S:0eea2ef8b5f5b2d042fee1d0bfb7e02542e5ad7f,",
+        "component.input.border-disabled": "S:4c1ff25ef11b67dd695c54509be9c0739ea628ef,",
+        "component.input.border-focus": "S:dfea325aae0f094eecc0ab5b7f71a53cc73ecb0d,",
+        "component.input.background": "S:30df7ef19ed4f63c62afb9e9bc893e226f08579d,",
+        "component.input.background-disabled": "S:980ceef501146f6cd65c1a9b6bbd78faee4d7be1,",
+        "component.input.hint": "S:6c80b060e328906be753061ead01d8708596c1e0,",
+        "component.input.icon": "S:b5d309f219ce23390d0fa52549e7a777dc495abe,",
+        "component.input.icon-error": "S:7f5d9b59c5e3ff546c5c7454c32f210d96b9c84e,",
+        "component.input.label": "S:cd2295591c9ab97a6ceb2241b1193e8b74ca71b2,",
+        "component.input.label-disabled": "S:ab4c83b58706eca765ecdf08b7276e1ece4121d4,",
+        "component.input.label-error": "S:79d4e42aa825a680917414db6487768af32a260a,",
+        "component.input.controls.border": "S:b15141eb94a4eccd9697bf1b1b92d3cbb66bc4a9,",
+        "component.input.controls.border-hover": "S:7cca58819191d28d04c6ae09b8db4e58d4407404,",
+        "component.input.controls.border-disabled": "S:71c73d4d3c7e3480070ad6f79760e71e3846d753,",
+        "component.input.controls.fill": "S:d2947d2fecc5553e1e902761859c970a931ef3d0,",
+        "component.input.controls.fill-disabled": "S:4ee8544cab49897253f41dc0c92b1bca63290804,",
+        "component.input.controls.icon": "S:7e8c93617d138fec4cbb4d42e8882eec1241d72b,",
+        "base.grey.100": "S:c1473ea22d992bc13ce1760459dc53803b726169,",
+        "base.grey.200": "S:b90f7e18ac3f64f4d7d8554d3372e89666c4c2a5,",
+        "base.grey.300": "S:a666d2971fde8ec137ee6b4c6dc9d7c5db58ae9c,",
+        "base.grey.400": "S:ca3ede64689d465cd0adf8dbb57daf3145e40ff9,",
+        "base.grey.500": "S:4fea60d83d6efb51f3bd6dacfa44fa072cb993d5,",
+        "base.grey.600": "S:f4e259278826aa3ad40864c7fc8d876a08103c31,",
+        "base.neutral.black": "S:af2305282a184d8cb8ae0912f61281020a178b08,",
+        "base.neutral.white": "S:e80693acddffc207d3c1ec509268e0839d13573e,",
+        "base.lichtblauw.100": "S:5ffcca3d65b8803585477c0271da6c28c50c9ffd,",
+        "base.lichtblauw.200": "S:2c6a50c9394f33a74297ecd0e0632ed8398312cc,",
+        "base.lichtblauw.300": "S:b5fa66dd04b0459a13844cfd5df183ca7da21141,",
+        "base.violet.100": "S:63ba98a38ff87e263c1f76c1a4fd40a724613c2c,",
+        "base.violet.200": "S:e66dffa5165887537a79f06d76f858d0671aa58a,",
+        "base.violet.300": "S:a266709b7d8ebaeb3740a8b95ab87ab39f9f8fc0,",
+        "base.paars.100": "S:9fc2fb359daa1485a58bfddacb7085ccd1b3c7a6,",
+        "base.paars.200": "S:ad53fb468bcb3562dbc1195b995db40493d5367d,",
+        "base.paars.300": "S:03e16e9521b2824029768bda91befc9ebd591984,",
+        "base.hemelblauw.100": "S:ff99e82bb9df878a05aa063f054b2413e5244c07,",
+        "base.hemelblauw.200": "S:4d3c3a1fe2d7c974fd75ed8251a3732b07363987,",
+        "base.hemelblauw.300": "S:2f98b8ca6f56678b2677c5723814118f4da79bfc,",
+        "base.hemelblauw.400": "S:7802a75df66f055258aea1d426fe17a0e607d6c1,",
+        "base.donkerblauw.100": "S:820c6e05646c2e4c89889ac78ac015c231c98fdd,",
+        "base.donkerblauw.200": "S:9d8d338f28490cad017c4a00cd77c5c2bbda17df,",
+        "base.donkerblauw.300": "S:f328f84dc4d8255c0f0abd3d4b3c59f71b76ac04,",
+        "base.mintgroen.100": "S:e00c649dd180c4d41c11e0880ad73be02dbc175d,",
+        "base.mintgroen.200": "S:a5855ea6952008d32dc90cdac2e7d55c029885fc,",
+        "base.mintgroen.300": "S:e12de246c106b4b3eabfc61009bd8ac7215f04e7,",
+        "base.mosgroen.100": "S:193d374094d0c949afcc59520ce1805c8b1b55e2,",
+        "base.mosgroen.200": "S:e74e51fe4e1d5bd9746781e21be93d3a09ec265f,",
+        "base.mosgroen.300": "S:a9ed47c000a821754522c22f8b4b2e5b5c2ea8ef,",
+        "base.groen.100": "S:dc49cabbce187ae0c970d97e8afcb395074afb67,",
+        "base.groen.200": "S:5ab775a85b9cb5acab8903e76f4ec41ccc92544a,",
+        "base.groen.300": "S:4b497f664474a0797ca42364d944661f4128f743,",
+        "base.donkergroen.100": "S:893323480dd8bc44d60edd5c5b426542bd79f98f,",
+        "base.donkergroen.200": "S:7b96f1dbf1f524578d061b8d9ebba8a80275dd16,",
+        "base.donkergroen.300": "S:5d3a2c1a9520924852d25b2c8fd3b8f210e94ae1,",
+        "base.bruin.100": "S:93feedc8fd73e068eab79e7036dc2a2107e5f302,",
+        "base.bruin.200": "S:057100d252beb733a1457581e9afb646318bd8ca,",
+        "base.bruin.300": "S:3c31e7f7a56a345ed131535ff13e77f0ed100011,",
+        "base.donkerbruin.100": "S:7ee5089bbdefbbc44c53c9f3f151500f6a9e9bb0,",
+        "base.donkerbruin.200": "S:ad44943bd1e943f930e13384e0951b995b3e14fe,",
+        "base.donkerbruin.300": "S:9111e07bd91e3d025068adb8919bf0c993de4f65,",
+        "base.geel.100": "S:4f60ae004f3c330edf07b70f01413e2829eae7f5,",
+        "base.geel.200": "S:943cc3c62233f90d7ce98ed51aedd08a983a1a32,",
+        "base.geel.300": "S:eaa44ad95b7f4fc52940beab04f1ac0ddc2d332f,",
+        "base.donkergeel.100": "S:afe9791598f67ede65438cba4d03aeae14983c80,",
+        "base.donkergeel.200": "S:2a03b016b5452b882442bdfe6e1f07f60cd2c885,",
+        "base.donkergeel.300": "S:0b593733140c60d42ec7021b9fd2d1b2c3ea783c,",
+        "base.oranje.100": "S:7f848af052d947701bb47252f841da4902412e48,",
+        "base.oranje.200": "S:ef8470ac3ee50fb45d03649049614ab8c5ddc9d9,",
+        "base.oranje.300": "S:54e8bc8243bd8283bb5b1cfbb60791609532524c,",
+        "base.oranje.400": "S:c135f6b0ecfb007b82692a44fb3802a7fc76a870,",
+        "base.rood.100": "S:cfbdea2784e05d1e5f9cd2f40eaf0e74b85e040c,",
+        "base.rood.200": "S:a0ea609af1656835c6b20d2b12235b41c05fd95c,",
+        "base.rood.300": "S:798e7d32384d28214cd40725ab3f514361d2ff61,",
+        "base.roze.100": "S:d3960459544d65d517d4b53e22bfa8d6fa3318b2,",
+        "base.roze.200": "S:7118cc2172a11dbd8092aced47a461ab683e2f29,",
+        "base.roze.300": "S:c48aadf5e9fd135009c6ed81f7332c1faf334f76,",
+        "base.robijnrood.100": "S:64ba314b07271df382c0607fbabe8aa9cf3baee2,",
+        "base.robijnrood.200": "S:6593b808552d864c0beb587c3a41252ec20407c1,",
+        "base.robijnrood.300": "S:fe99b6267f140f8b85438eb7b5c945b19d9e56c5,",
+        "body.s-400": "S:c15cddc8e4cc88ad09a19e14cca738d80a0e48b1,",
+        "body.s-700": "S:e46111f6203c275bc48a5e6b7389f0bec526302f,",
+        "body.m-700": "S:5d4f5ee6472319d0eac13100e500d192c43c7704,",
+        "body.l-400": "S:916c24cb2b1d2e2913822b51a20fa25e29c03e39,",
+        "body.l-700": "S:766ae5b8be3de9d065d5a4f5a2079ce6f7b06de9,",
+        "paragraph.default": "S:3c4d29d25898b9b1ef6b12013495f761722b3168,",
+        "paragraph.lead": "S:9fee9110e68ebad7299e71093ac4db2f250012b4,",
+        "text-style.input.hint-text": "S:860df5b01559748a58935d710725c3b9685c46d1,",
+        "mobile.body.s-400": "S:fadb7423509d18fd6c9df46b08069d2c3967fcd3,",
+        "mobile.body.s-700": "S:f4baabe39db91db6c6776a7113eb31589d8a7916,",
+        "mobile.body.m-400": "S:f605e586d3b904dd6eb32c772305fabca485fd12,",
+        "mobile.body.m-700": "S:fba2ab96b741fb5f6c1a85a790a6b726f96bc501,",
+        "mobile.body.l-400": "S:6cfc333a3923c1615955d7e236e77a4c4107c9a2,",
+        "mobile.body.l-700": "S:49afa27f0a15972b57f2bc4b9adcd4d7d4b72ab8,",
+        "mobile.paragraph.default": "S:6d3efa4af28679f30d90abf1dc3a4ac516de9a39,",
+        "mobile.paragraph.lead": "S:3e09a43a60c49c23494297058d7dc0e5c197a221,",
+        "mobile.text-style.button.label": "S:f61b8a36aeb1839866c7ab36fd7fba7873aa7f0d,",
+        "mobile.text-style.input.label": "S:5b465e7b37202cbaec8f42f0dbd5090a37e8bf3f,",
+        "mobile.text-style.input.hint-text": "S:41b4ca7f77433ded5105aeb66505c29887d5cc8a,",
+        "text-style.button.label-copy": "S:fc08cc40ed94a2dde08b039e12e0002b1a77c8dd,",
+        "text-style.button.label v2": "S:1fcf622675771c3403d9f639cd1a4eedb4b1972d,",
+        "mobile.text-style.input.hinttext": "S:f1c8ef6fc6338c324d1425fc06d2cc066067bba8,",
+        "common.wcag-state.a": "S:c2069251cd0166935602ff0985bda8aae14d937f,",
+        "common.wcag-state.b": "S:e36608d5cae9d86154914e07a1bafe5af661892b,",
+        "common.wcag-state.c": "S:87501833b357dd48b0e687130c88cbc51443aabe,",
+        "common.wcag-state.d": "S:042b47cacf7b639c248c69f4bf36f4f3184a6628,",
+        "common.wcag-state.e": "S:ced899081669d848f229e80b39c2e87ec4b365f8,",
+        "body.m-400": "S:8131182b606e770c171c40b801f725aaab6ff236,",
+        "base.neutral.transparent": "S:a3b01d9f5765ccfe946e68abc11cd3f3d731962c,",
+        "heading.level-1.400": "S:3e5bff563045756c6968bdcca26fa92cc1c2cc04,",
+        "heading.level-2.700": "S:8e4c1b131d908a2170e88541adee61364a7a135a,",
+        "heading.level-2.400": "S:7224654f0bb322c4c09c9eada646d1e5f6af4df3,",
+        "heading.level-3.400": "S:26047ad51959b17b57b15d048adc25208a8a6a91,",
+        "heading.level-4.700": "S:316f2b2211531ed0406173d08aa064c20b7d9a1b,",
+        "heading.level-3.700": "S:7354d41ecaa12baca301c6c7ed11526707e541f4,",
+        "mobile.heading.level-4.700": "S:dc9f9d0cd1598aaa2fdd3a536ac08c10ef92fc77,",
+        "mobile.heading.level-3.700": "S:c184aead81ce6b6f0d81809b2d59402b136b837c,",
+        "mobile.heading.level-3.400": "S:9531481de153e309d1fe1c29cc272dfdb70bd468,",
+        "mobile.heading.level-2.700": "S:06dc02f68ef8f0aac3951b02454480bbf8b773f8,",
+        "mobile.heading.level-2.400": "S:3457bfe3c11dcac8eb26f81971a16165693aec5d,",
+        "mobile.heading.level-1.700": "S:9781d55024cbe94ca16ec335603ee471140d574d,",
+        "mobile.heading.level-1.400": "S:78ae876747b1b553d1e41168b10f91f1ec145a39,",
+        "color.brand.default": "S:3b2f9faeec461c138b8bd3b4bb7ebfe41b1c4391,",
+        "color.brand.subdued": "S:40f4e6e221a8154e82e0cafa2593afc2ac55f38a,",
+        "color.brand.hover": "S:6a37efaaa024002b8a8322273d941c4ac52546f8,",
+        "color.foreground": "S:0a6b6c87cfb5655dc3960e85895097c8645d7d74,",
+        "color.background": "S:bc5ec6872121070a7794bf578d097625bb552982,",
+        "color.border": "S:db48abdd04ab20a03a7c67b84b6f295a9c5f70e2,",
+        "color.canvas": "S:151c4957325cabf762e43fc7155c38872f771c51,",
+        "color.onEmphasis.foreground": "S:5abff0d37380d9204c0761bf8f7b41a55ae17c0f,",
+        "color.subdued.foreground": "S:ba2d62746cfb079f215bc132c25af399bdbbf23a,",
+        "color.subdued.background": "S:19c7134b970054aadb085de85e25ec443180a4b4,",
+        "color.subdued.border": "S:d6f623cb919ec1d88f52f72d37806f877dce29f4,",
+        "color.hover.background": "S:02a2a476ddd8286503d07006de52e369c5720a8f,",
+        "color.feedback.success.default": "S:7e167d7f176810e619bb3a1ee138ae581e938b6d,",
+        "color.feedback.success.subdued": "S:23828804a5ad791d4bae832a3e2737e32c7de860,",
+        "color.feedback.info.default": "S:1a75324dc4182a9828458a39d87762cb6f3c9361,",
+        "color.feedback.info.subdued": "S:db6338a59831ec51819781e71e071bd9065de20a,",
+        "color.feedback.error.default": "S:ffa5b83995dbeada5eddb698b7c550df4c94a31c,",
+        "color.feedback.error.subdued": "S:30f8ec789b36cf8b2e930fbe6540374cd30d51c6,",
+        "color.feedback.warning.default": "S:4934b2cdbb39c91e64d7d96934d3341433225c13,",
+        "color.feedback.warning.subdued": "S:a8c500ff015dc5ac61aab50f8ce013720cda663d,",
+        "color.grijs.100": "S:1a9c0872cc1883c8c30415df847d37e5107f22e7,",
+        "color.grijs.200": "S:1f0225c347525fd4e539d75ac32ac38ba02125a1,",
+        "color.grijs.300": "S:1d4689924ed433adf64e4b3db1a297b092bd4979,",
+        "color.grijs.400": "S:fb4606f9ef27acffbb6ac90e8f391f10274912b0,",
+        "color.grijs.500": "S:06973f241efcf3e46badbfcf670e0c5bf97d1474,",
+        "color.grijs.600": "S:c4bdcdeadf2680c442a78edd5b5cfafa7b457e60,",
+        "color.grijs.700": "S:c7bf6475425d0041142a99d686921a6b6a0ed428,",
+        "color.grijs.800": "S:b158fb87d15a6750576f65c59b1cda439e7d0d32,",
+        "color.grijs.900": "S:567e8f54b430ebe3332f9401a8de880c80679041,",
+        "color.zwart": "S:6201ea4a0c2437aa3367085cd8d0a97a51cf89e6,",
+        "color.wit": "S:f3014589b41fe1293902c89423b9c431c8ac6592,",
+        "color.none": "S:17da17bda9e5afcd27e4ba7bf267cb06c033a0fa,",
+        "color.lichtblauw.100": "S:dfdfd9cf7ec62a9cb928d7c4561077ca2619bc99,",
+        "color.lichtblauw.200": "S:77f3be4b3912e8d2af38d63c2e36f17da3332a97,",
+        "color.lichtblauw.300": "S:d2b3696ef3181b1057ef5335b934edac4ebc2f1c,",
+        "color.violet.100": "S:1a1b29d8516f77945aa2a6a94077e757a21280a8,",
+        "color.violet.200": "S:b41e36d7d5e9fe02df9316afa6c8bea3a0b24efe,",
+        "color.violet.300": "S:8cb80a83cbb0967c291f206499f422b7ffdb20b7,",
+        "color.violet.400": "S:61ddc9c228a8b1aa27ec53c4e91230c8d6dae1dc,",
+        "color.paars.100": "S:b5b18de72bef7d9007eea05090152c1185515d98,",
+        "color.paars.200": "S:27c2402a483fb5b5ba727fdcd0af5b6f304f7b58,",
+        "color.paars.300": "S:f52542b7da290d73b0c47bec4a560af9f48bf7ee,",
+        "color.paars.400": "S:403d925d4b77480bdcc9906872b0649a94e10fc1,",
+        "color.hemelblauw.100": "S:ac487cec4e5376edb1235f71740df0c7c8c61fc9,",
+        "color.hemelblauw.200": "S:0db9205e7115b275b40175b398031dc6d13340cc,",
+        "color.hemelblauw.300": "S:a2df6a090102075496055a55591fd6b84164393d,",
+        "color.hemelblauw.400": "S:d16946d811b41ebb0e7a1b9b9bd0a2a030d1d2d8,",
+        "color.donkerblauw.100": "S:8e6b7e76e8a429992a17e763407451643d0011cb,",
+        "color.donkerblauw.200": "S:b926644d1bc1478f87e08a6a41d49e9676e1e560,",
+        "color.donkerblauw.300": "S:555fe26b0cfaf0fc0e30888ff38139bcbddc68d3,",
+        "color.donkerblauw.400": "S:393135a029b97216d56b1786193777637dd2b6bb,",
+        "color.mintgroen.100": "S:15d40389e1efe981126c2c9a70e8631d95cac6f6,",
+        "color.mintgroen.200": "S:5ab68e08dfb333de935d4bb911a50ba669297a56,",
+        "color.mintgroen.300": "S:a290763d722e98bf669afb1d769f135c66fb0b1f,",
+        "color.mosgroen.100": "S:3f26cd9429106d947654d368920699e83980e586,",
+        "color.mosgroen.200": "S:d208bb28f3510093a81825b8deae6007d2cbb556,",
+        "color.mosgroen.300": "S:fc809cec013a909fd7900a68f5c43a17ce50a9ed,",
+        "color.groen.100": "S:fead817826d456b3e7ad562995a470f704c77fff,",
+        "color.groen.200": "S:6b0fc5a16694c409bdf1c98aaa41d6eceb6bf301,",
+        "color.groen.300": "S:a4d50c02da4040c12c7455f6b18e5f97de141749,",
+        "color.groen.400": "S:bda436676c0dcc23bdd8aa3cfeaf9a7b1326264f,",
+        "color.donkergroen.100": "S:2e5c7093aba431f4f874476dcbcaa4538706ef76,",
+        "color.donkergroen.200": "S:c12167b378e00f36741258e6d75fc65f21da1ee0,",
+        "color.donkergroen.300": "S:72205982dede97406436099bc30192bef7ef8ba1,",
+        "color.bruin.100": "S:66722f416350032574da082cb9f7a7b4677dd879,",
+        "color.bruin.200": "S:e64f5abdd223d6795fd8b6c15d03b26a44208953,",
+        "color.bruin.300": "S:388c3e4a98ee0aa15d654930db348f3a02fe7872,",
+        "color.donkerbruin.100": "S:f7859c9de28021819eb10ce3e4b88dfe444388b6,",
+        "color.donkerbruin.200": "S:dd4ffb0f5e502d1d76c1c32e2e496aaad4e2de92,",
+        "color.donkerbruin.300": "S:4b7c7f4a47f54c70d5e6f2fad30d1d6a30d89ae5,",
+        "color.geel.100": "S:d9d5807135ec32c34426fe8be00585da7e8649c3,",
+        "color.geel.200": "S:873ca3704cf9750331d2af1c97cbbde733dde7b9,",
+        "color.geel.300": "S:d743b6bd1838883d682ca1b522fb2d23d27442d5,",
+        "color.donkergeel.100": "S:4c1127324e05cb812ffb4aeb5e7ee10903f27bbc,",
+        "color.donkergeel.200": "S:c02f03408e12f1218d289450a5a045095d6a7b2a,",
+        "color.donkergeel.300": "S:7f51b60829451937ba6c817cc4ccea6b9fcc9bd8,",
+        "color.donkergeel.400": "S:63dd6cf4c605f90cd9542db406981f3931a90fa8,",
+        "color.oranje.100": "S:cf50ce3f4101f091d21bea9435aa7efb93fa2720,",
+        "color.oranje.200": "S:4f612303ee20aab13d27a9180b2698211c2b278d,",
+        "color.oranje.300": "S:94759595be3ac63d3d6c778b10cc6392050b1354,",
+        "color.oranje.400": "S:36af37d60ff51d47bad939729c4959c23c30dc1e,",
+        "color.rood.100": "S:d6e0edfc3dc21f4536120915a9b1a96168fd92db,",
+        "color.rood.200": "S:e258ccfba001aae12d93f7890711acde449346b5,",
+        "color.rood.300": "S:3a2129b8e99ba51e347a2ea79347ffcf36b41a11,",
+        "color.rood.400": "S:7f51768b27c15313a3887c4d5c56f7bb62cca50c,",
+        "color.roze.100": "S:ceb1f062b3725394906f18856a82ee1897d6e314,",
+        "color.roze.200": "S:787de3ad6db8b586fa12579d4374fc71eff5147d,",
+        "color.roze.300": "S:e532efd9e9cc2bdf6ef543d1e00cb23174833a17,",
+        "color.robijnrood.100": "S:4a4ffcee6dd8fe5f969ee41c0b30073162ef837d,",
+        "color.robijnrood.200": "S:6c06416da5bbbce6959eeffb132abaa8e8d2b662,",
+        "color.robijnrood.300": "S:909936802c890da541bbaff021b9f719191ae1a2,",
+        "shadow.default": "S:b1ee029c3888b302213171921d746f03bc052d42,"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:339",
+      "$figmaModeId": "6:15",
+      "$figmaVariableReferences": {},
+      "group": "brand"
+    },
+    {
+      "id": "b6dc798fba8b7d19c140d8d5a2d86c967eb55c9f",
+      "name": "dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "dark-mode/semantic": "enabled",
+        "dark-mode/component": "enabled",
+        "default/core": "source",
+        "default/semantic": "source",
+        "component/button": "source",
+        "component/alert": "source",
+        "component/forms": "source",
+        "component/pagination": "source",
+        "component/link": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:457",
+      "$figmaModeId": "6:16",
+      "$figmaVariableReferences": {
+        "button.color.tertiary.hover.background": "d6efa56dd667e2da80a68a3c4c86fd4c33be3c49",
+        "button.color.tertiary.hover.foreground": "e1c7eadbfd1221bcaad8b7e7b0c3cf3db4e8ed64",
+        "button.color.tertiary.foreground": "02d8d08c229f4a1bd49f2c6ec0b97f62659230b9",
+        "button.color.secondary.hover.foreground": "eb8b799db4251cfe71116d3ecc3d76fb97e6ebef",
+        "button.color.secondary.hover.background": "8f63577a2ef4eb7f07b80df6448f2236ece551f5",
+        "button.color.secondary.hover.border": "0f6bf5cad3ed619b532c78b1c35c71cb40f67f95",
+        "button.color.secondary.foreground": "aacdddc96ee00576e96bdc55afa3d9eb26efc366",
+        "button.color.secondary.border": "66a3152890b09c287c180715f3965a254c82c0a8",
+        "alert.color.foreground": "dfa0ea6d73ee4fe9739ede2a1a3c286c4facc07d",
+        "forms.control.color.active.fill": "d3b7d125d24145376a881c7af3f3552a8f5c147d",
+        "link.color.foreground": "cea1d252b0ea9837572f0878d7bbb64a0bc3d41d",
+        "link.color.hover.foreground": "0619e9705e02b4eead4b095935d8e807f3a6ffee",
+        "color.foreground": "01e10e8d5ebc751c2aaacb91cba7416621607d27",
+        "color.background": "80b465734776af2cab1eba7b20c5bed49943e65e",
+        "color.border": "ef721e99f01cefea21d532685af155c832314efa",
+        "color.canvas": "6e9fd5ba5d4639d560cca006d9e44196d22d4465",
+        "color.onEmphasis.foreground": "40fb8f7b128ff9390ea00dc08a56c6c11f9be679",
+        "color.subdued.foreground": "c98fb57de1bec3da13d6a0b7bbe52eda4581c2e8",
+        "color.subdued.background": "072b877392a94c7acf5af0be7cad7f33ad966057",
+        "color.subdued.border": "86ceb18741e22b4a64386027b19413a06ee1a391",
+        "color.hover.background": "9104bcb77651146c9f06c4d6b12d2a0748dfd9b0",
+        "color.brand.default": "970496a7ba58453133be51902b64f9d1107ae2ad",
+        "color.brand.subdued": "e38969781e0215d34b205e7d2e02d77f155ca941",
+        "color.brand.hover": "7818460f061769fc808701a27622cbe46f826427",
+        "color.feedback.info.subdued": "fd65a822afeb96b1eb9e070f5ce9d368cc144c42",
+        "color.feedback.error.subdued": "16b6d4446aba8af9a86159e9e823c4c6c126156f",
+        "color.feedback.warning.subdued": "4520b1a59d3ca8676e3fdc4e4020d6750292047f",
+        "color.feedback.success.subdued": "354e52a2216d649c0a04f5dd8ee89e9c10e19bb9"
+      },
+      "group": "mode"
+    },
+    {
+      "id": "6bc5fe5338747a8377812225c705877a5e69aea8",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "default/core": "source",
+        "default/semantic": "source",
+        "component/button": "enabled",
+        "component/forms": "enabled",
+        "component/alert": "enabled",
+        "component/pagination": "enabled",
+        "component/link": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:457",
+      "$figmaModeId": "6:17",
+      "$figmaVariableReferences": {
+        "link.color.foreground": "cea1d252b0ea9837572f0878d7bbb64a0bc3d41d",
+        "link.color.hint-text": "b2197357164f2d0da5f866805c0ed97a01b6bb24",
+        "link.color.hover.foreground": "0619e9705e02b4eead4b095935d8e807f3a6ffee",
+        "link.color.inverse.foreground": "f3e1424dfb40c6f07fecad11bd82afbb66bc52d3",
+        "pagination.number.color.background": "53aa6ea1b9697249d294a012a418e87acbb9ced7",
+        "pagination.number.color.foreground": "8e47523a5066a19ad2c25d2f03e4de40613faee5",
+        "pagination.number.color.active.foreground": "459fcd06c7d043c0eef88342b510d485bd73471d",
+        "pagination.number.color.active.background": "7e2f7f62084e77c872a41de89df16467e9fb3d77",
+        "pagination.number.color.hover.background": "03877c27328736f716565d9cdc4cbd3260d6faf2",
+        "forms.color.foreground": "d959cddd5b2353ad86c98fe36f7feb50db5375c1",
+        "forms.color.hint-text": "4ba45b42c91e0c793ad1e00f7900574ba64b9e65",
+        "forms.field.color.placeholder": "7ae0cfb0c3120048e136a4d94f6dcb5207b3a574",
+        "forms.field.color.background": "b60868a116daef796af4e5de667453616120c129",
+        "forms.field.color.border": "ebd3d9ff1b10be941cf195304c86bd2e1b5085ab",
+        "forms.field.color.disabled.foreground": "a2dc60d03aabbe5a4d34192309c1b6d6fb87c6fc",
+        "forms.field.color.disabled.background": "7af1f71d81b5b9decc64f0e2e7b0fa470426a0d5",
+        "forms.field.color.disabled.border": "414ab181c17c5efc5fc7f4bbc054762b3986d998",
+        "forms.field.color.error.border": "8fdc7e8ce7c784121412bfc8457d3c5cdd832025",
+        "forms.field.color.error.icon": "71bc9801ed3e5a13a321dee52e8b1a07d6799a4d",
+        "forms.field.color.active.border": "f77870b262a2c2b0e13857ef5428653281f4589f",
+        "forms.control.color.disabled.foreground": "6808671fa5b27daa734f4a8cd4b1fd73d41d4c99",
+        "forms.control.color.disabled.border": "65b36dde0fb06f5df9c1e2b710bed30b5bebda9e",
+        "forms.control.color.disabled.fill": "e4645edbaed43cacfcae44cea04cb0cece81c497",
+        "forms.control.color.border": "f0443fbe7c361b7f94ab29423cb356ac04455ea2",
+        "forms.control.color.error.border": "321b0fc586d0c0bf699879df32a1e7804c077bf5",
+        "forms.control.color.hover.border": "37e4cf4162ddf6f3ebd6d4d3f711b523411c728e",
+        "forms.control.color.hover.fill": "e22ca031c7f63f0b336ef0ba4f287981e255198a",
+        "forms.control.color.active.fill": "d3b7d125d24145376a881c7af3f3552a8f5c147d",
+        "forms.menu.color.background": "4b0036c3735aa842a631165579f772adee20f2f8",
+        "forms.menu.color.border": "e82ee85dd0f055f663508b03a4e8ec7e389cd709",
+        "forms.selector.menu-item.color.hover.background": "880a18407274aececdb42921279d6f02d9164abf",
+        "forms.datepicker.date.color.background": "843935f5d6168e3c101283dd4f8e8d64ac4ecae3",
+        "forms.datepicker.date.color.active.background": "f7fea57be6f573c5f362c02ddb0db11640904c78",
+        "forms.datepicker.date.color.active.foreground": "843b0afb1c61b629e657f16b8f5a9f56da7e2514",
+        "forms.datepicker.date.color.hover.background": "4b39f2cd143b7b8f0888a208774e9ee1cfaf0ca5",
+        "forms.datepicker.date.color.disabled.foreground": "3f002de6b121491c3be67b7b4247de60ec9414a7",
+        "alert.color.info.background": "3fca4207fbba7283139321343cf654941394c699",
+        "alert.color.error.background": "6811ae1db5af0b10c70e13f8df95d58e97b004f6",
+        "alert.color.warning.background": "e33bc8e71fadf4d64c32f8f004559ee3f7e97bae",
+        "alert.color.success.background": "f413345b8523d6913c5a46a9c78045074b521081",
+        "alert.color.foreground": "dfa0ea6d73ee4fe9739ede2a1a3c286c4facc07d",
+        "button.color.primary.foreground": "d63bb94ce8298f39e3a6bb202f48dc3e2072f442",
+        "button.color.primary.background": "9f4dbe21d40c330a9337228470c1379e0b5332ba",
+        "button.color.primary.border": "d4ee6fd7b33cd1a40104ff9ffba05247b8014f2d",
+        "button.color.primary.hover.background": "e8c51948b2a79dea7cab1a01047d254437c587cd",
+        "button.color.primary.disabled.foreground": "b1549f2fc43603f6196aa71782633c2504ba8be5",
+        "button.color.primary.disabled.background": "44cf140d558214471a56b39c49e82c748e0498de",
+        "button.color.tertiary.foreground": "02d8d08c229f4a1bd49f2c6ec0b97f62659230b9",
+        "button.color.tertiary.background": "e992110fa26c3724c5afb5b1b6b0c2b48a42955f",
+        "button.color.tertiary.border": "cad5e24f73bfb1a20fce1f7bb003a6bda81c96c2",
+        "button.color.tertiary.hover.foreground": "e1c7eadbfd1221bcaad8b7e7b0c3cf3db4e8ed64",
+        "button.color.tertiary.hover.background": "d6efa56dd667e2da80a68a3c4c86fd4c33be3c49",
+        "button.color.tertiary.disabled.foreground": "5f2fe4a77662d686df7a0b56c4d95ec062b101a4",
+        "button.color.secondary.foreground": "aacdddc96ee00576e96bdc55afa3d9eb26efc366",
+        "button.color.secondary.background": "24e7dce21b8c6eba08291a795063981366c5ba09",
+        "button.color.secondary.border": "66a3152890b09c287c180715f3965a254c82c0a8",
+        "button.color.secondary.disabled.foreground": "746e1bcc3c528a14a6a72439c641795f3210c06e",
+        "button.color.secondary.disabled.background": "d0301a7692566c624a4bf41a0dbc2ac5f5df7f44",
+        "button.color.secondary.disabled.border": "a7ba5976c06d31496563e356b7016f34c4230f66",
+        "button.color.secondary.hover.foreground": "eb8b799db4251cfe71116d3ecc3d76fb97e6ebef",
+        "button.color.secondary.hover.background": "8f63577a2ef4eb7f07b80df6448f2236ece551f5",
+        "button.color.secondary.hover.border": "0f6bf5cad3ed619b532c78b1c35c71cb40f67f95",
+        "button.color.loading.foreground": "5b9e15a5fba3cf06146c3e048bf0f4a2de6fdcf2",
+        "link.space.vertical-padding": "452d5c945c4e8971f975079f8045621cc466f82f",
+        "link.space.horizontal-padding": "4bb39dbb6cc93e7ea092705c700253fa52aacda4",
+        "link.space.gap": "901d55af9c4f5dbad0e1ebe55bb1d0243be35b3e",
+        "link.space.compensation-height": "785b8aa4b1ad2278d1b61716cf2f9b0aa802af67",
+        "link.icon-size": "4cf63e65812818b8d1f3ad419c6141ef70879a8f",
+        "link.size.min-height": "ecc1fffd2da0297f2cb75afad172d6401cf9ee05",
+        "pagination.space.gap": "79c97fc9cf38a5f70d00517ed62710f77de14e1c",
+        "pagination.number.size.height": "6f762eb290934118820dfd8c857a619627c237ac",
+        "pagination.number.size.min-width": "e6fa772aa81e75e418fdfe240f73e847737f285e",
+        "pagination.number.space.horizontal-padding": "03213b1a0cfc2feb7fe6f74195d140e561f6e512",
+        "pagination.hit-area.size": "b0e320b84a93b8857678ad75338697e6e0cd2d6f",
+        "forms.field.border-radius": "946fe8edb976372ccc1bcaed51b4010dbdaf6a05",
+        "forms.field.border-width.default": "21008419cb0f8fc0a948be4d32577282ad8030f8",
+        "forms.field.border-width.active": "060e8afe5b91fc7154e0c202690296ba0ba576df",
+        "forms.field.space.horizontal-padding": "4c10ffcfde9c047351d0aa84090b6fc2b004d604",
+        "forms.field.space.gap": "7e5b5a83169dd2d39b4c46f0ac57845577effea2",
+        "forms.field.space.inline-icon.padding-right": "8203a2d2fa5d1d3e9b0573deb26d556d2a76cf3c",
+        "forms.field.pulltab.size": "d5f2b3db863f4bf0deabcd2920f032edbcc321de",
+        "forms.field.size.height": "d9e04222b8cc742aea97603754f336cbff50684f",
+        "forms.control.space.vertical-padding": "c5ca405363907dccab3331c8ecf495a293860e15",
+        "forms.control.space.gap": "75a47abfb0dbc07cfe37814043614df550a5dbf6",
+        "forms.control.space.compensation-height": "7b139cc09ced129a3f74c7673aab09e9c2f916d6",
+        "forms.control.size.min-height": "fa95a0bfbb6e257da9a35907833a01b0e80b88d0",
+        "forms.control.input.size": "fd1c7a67b14ba34a0873b649bef63877b4bd1aa9",
+        "forms.menu.border-width": "cb8a8dc83e11b9ef9b908a4fa39f36aed3cf9de5",
+        "forms.menu.border-radius": "c49d7d2c475963bb5b32be05a248546fae91fac8",
+        "forms.selector.menu-item.space.vertical-padding": "9c126dbedc22305d140593407973d899ba44ccb4",
+        "forms.selector.menu-item.space.horizontal-padding": "f95ae4049d451a8e1043484d56f3788acfb9172c",
+        "forms.datepicker.date.border-radius": "d83aa68148f8f8abf07d2aa4f669a38b05da72e8",
+        "forms.datepicker.date.size": "9d3d2343f6fd0754fcab0050470824a6a240f35a",
+        "alert.icon-size.alert": "f5bf5be958c4aa0a1aff1094d36c080f96755326",
+        "alert.icon-size.close": "4342470e419bab679553ec07159ddfbacfbe4282",
+        "alert.space.vertical-padding": "690bda347e3797afd14291cb9dede5046912cdec",
+        "alert.space.padding-left": "dca45c038d39ad5377bafa624aed8e8d625918c0",
+        "alert.space.padding-right": "62dbe4f2e55e2a3004d50c17ca4630543c50ab2a",
+        "alert.space.gap": "120c9d6b627966f9050cc7bc01f1b6742c54028e",
+        "alert.space.closable.padding-right": "c81e5eb42442de2a04b7c4a134b6429646d017e2",
+        "alert.border-radius": "b2b39e2ecac9c21b3ff334c75ecadb0c7cfb6804",
+        "button.space.small.vertical-padding": "bae21699cb083bb3e30a75268cf1dff892516b84",
+        "button.space.vertical-padding": "7436f7ffb82a949491bf0103a8e357af717334ff",
+        "button.space.padding-right": "e235669c09ac2ea1f01eace1ec71524e0eee797b",
+        "button.space.padding-left": "465843c28848985db770ced19f4d575e62d55313",
+        "button.space.icon-left.padding-left": "666bd06551dd4a54ed19033f9e1a297d1f253322",
+        "button.space.icon-right.padding-right": "a1ed2713f8edc085f776457a07849ea5f8d34036",
+        "button.space.gap": "98562b690871aae1e7704244cc979ef2592cabe6",
+        "button.border-radius": "6fe23ca9d9fab5890c52da5d6c451603ffa14777",
+        "button.border-width": "dd7951d33964afc070c213ca529c0a7c0f782428",
+        "button.icon-size": "b8c7c154d679b4f3b75fcf698ad9edc22f8b5192",
+        "button.size.min-height": "ba3bf59440c239c2f532a3606b8ab9ad550b304b",
+        "button.size.small.min-height": "09bb978d3cf2cf3dd8f203225a77e8878f8b1226"
+      },
+      "group": "mode"
+    },
+    {
+      "id": "9df6f6390e04643bf0ee1a256b8e1ea9f2c9d1fa",
+      "name": "xs",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "breakpoint/vp-xs": "enabled",
+        "default/core": "source",
+        "default/semantic": "source",
+        "component/button": "source",
+        "component/alert": "source",
+        "component/forms": "source",
+        "component/pagination": "source",
+        "component/link": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:487",
+      "$figmaModeId": "6:18",
+      "$figmaVariableReferences": {
+        "forms.control.size.min-height": "8931a1b33e1c03338ea04c25c61a84a98f7ce6d1",
+        "forms.control.position": "6fd86c92d329a8b5fea3549d8f47acf9db59f62e",
+        "forms.control.space.compensation-height": "3d948c4bbc9dcb0bb20f10a52d828ca6ec4df460",
+        "forms.input.control.space.vertical-padding": "a53d9354ad2b71993d1f07645760b402d638e7a8",
+        "forms.input.control.space.position": "18330ad7926841428c4c2f91c1a6283a8f98b2a5",
+        "forms.selector.menu-item.space.vertical-padding": "1f91113b789d08fa334f6f882d4a6b19136c93ed",
+        "link.size.min-height": "198836d2d47f44c31605185f65a1a6973e4e742b",
+        "alert.space.vertical-padding": "fa82fee9d8ab1d912c0fd573cf5a24f840d0f36b",
+        "space.compensation-height.small": "db4d2850516297e2e3e388804115e6128bb4a878",
+        "space.compensation-height.icon": "3c49ba1e944f28f6d1a4a74e960f19536dbb2c7b",
+        "space.listItem": "c9187f5024f1780a10c181a834171f242f67b66c",
+        "card.space.gap": "0eacb5a16d0ebb4667b3b505d8d51a8db06aeb62",
+        "card.icon-size": "d09e78f214bfb1a2c3b860a47f0e06df9470c851"
+      },
+      "group": "viewport"
+    },
+    {
+      "id": "1bb90812737e3842bdc63ae480b420c06fd76044",
+      "name": "md",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "breakpoint/vp-md": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:487",
+      "$figmaModeId": "6:19",
+      "$figmaVariableReferences": {},
+      "group": "viewport"
+    },
+    {
+      "id": "a99df459f03533a690b4689febcce7a972b217c7",
+      "name": "default",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "default/core": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:501",
+      "$figmaModeId": "6:20",
+      "$figmaVariableReferences": {
+        "logius.color.grijs.100": "47cfbf1ea1596f9dbb5363715cc168f5bd34305e",
+        "logius.color.grijs.200": "ac3e2c0d2d191bb285115065ee4bf248028a082e",
+        "logius.color.grijs.300": "276527217b43a1f70f26ef600eaf2f5933a55146",
+        "logius.color.grijs.400": "9b2b8ff595d6c88b402697fda6e2110ea1bcb26f",
+        "logius.color.grijs.500": "eb387ae4406c0574a8bdf8024ab48bee9f542dcc",
+        "logius.color.grijs.600": "c9e476169ec75de6acb0409911ba46f44f495015",
+        "logius.color.grijs.700": "bd652e97fe679afd631abf9f572ec8caf1bfb86c",
+        "logius.color.grijs.800": "95439693cbf4ec617ea7daafae239574d19c9f51",
+        "logius.color.grijs.900": "65ab6629f5ea89e51d7a42b2f5e7209f9e4b2d28",
+        "logius.color.zwart": "09323574eedf65ee21c774d684c151af3a8a888b",
+        "logius.color.wit": "adc4ce740a835a4f8719a7d3285481b58cef2d0b",
+        "logius.color.none": "f5fca2a1871d6cc28bd61189a8240d8f0ec73427",
+        "logius.color.lichtblauw.100": "3e2289157f56374a5e9cf4074b5a833a5dfe8346",
+        "logius.color.lichtblauw.200": "47c1390157237d654b371f3244f55f6c11446115",
+        "logius.color.lichtblauw.300": "3b25c6fad404d2afc7f3cd44affcad06a2e85f71",
+        "logius.color.violet.100": "0089fb40ce4ec20c88b63d8e69606a00c49dbe34",
+        "logius.color.violet.200": "6e78d434317847c88c94c5112a76b274d163b1bf",
+        "logius.color.violet.300": "bb459dcbd402f442442e1858363e1a17f49e3ec5",
+        "logius.color.violet.400": "2692fc05c3e4f82641e50617a87a78682b40720e",
+        "logius.color.paars.100": "ee8336d0aeddbf54d8f972944e29f1a81c8f1b5e",
+        "logius.color.paars.200": "f29c1b70fbaad04962420e6e43c5f6988bde7343",
+        "logius.color.paars.300": "b5562e56f050f9cc7c4799066f09bcc3adbc2da4",
+        "logius.color.paars.400": "85e6fd2cfcd4b3f993857ba3bbbdd3cfce4ffa8e",
+        "logius.color.hemelblauw.100": "3ed3fa47c06a8406cf63da0c36ff092db0d15d1a",
+        "logius.color.hemelblauw.200": "0e62cdc72506c88b5e8d6a162acc789f1aa9e507",
+        "logius.color.hemelblauw.300": "52696e3178e760f8b6dc55f3dcee47c23de03892",
+        "logius.color.hemelblauw.400": "48ec37b444a148040746ead9dc7482f4e5172b84",
+        "logius.color.donkerblauw.100": "7fdffc0be2048a6a30aab9b0d07a65f1a9723df8",
+        "logius.color.donkerblauw.200": "ecc84dc53e49673d8fab012926487277e683d020",
+        "logius.color.donkerblauw.300": "af477a4f31c9003d2384d05351a94f64fd11c86e",
+        "logius.color.donkerblauw.400": "ddbec7d901cdff68a5ea6e19c4cb76467f7581d5",
+        "logius.color.mintgroen.100": "9fd389955e67389187471eb6163f98841988f564",
+        "logius.color.mintgroen.200": "1e123d4ef5687c407daacd4ac8bd0b212076361f",
+        "logius.color.mintgroen.300": "290a6daf1ec388feff7f1a204f65a032c485485f",
+        "logius.color.mosgroen.100": "b133297d56901148f9ddf70a489eb91e52d2c447",
+        "logius.color.mosgroen.200": "e0b99d3a12ed94830fb69ea2b3c58f25259f9d83",
+        "logius.color.mosgroen.300": "b890a55f3740e7b684cdbb6fc36cdc713f6d9264",
+        "logius.color.groen.100": "dedf03a68925082c9dabf6426a9107f4a79e31fc",
+        "logius.color.groen.200": "375d03710bcde7af61b44a3768808ba2a0e4c7b4",
+        "logius.color.groen.300": "8fc9e423237dcecc5c430ca729e27a3ba749bfef",
+        "logius.color.groen.400": "fe3fbca9fdefb6fd08da1ed99dc2afa77b49306f",
+        "logius.color.donkergroen.100": "caafbb26ade7f45e3f94c66a4869c852e10da213",
+        "logius.color.donkergroen.200": "5553f15f6d2846cfb5c62106994f3f83d6eb18a4",
+        "logius.color.donkergroen.300": "f5f9b342f76ad404ba8a4ec144bed388bd5b2341",
+        "logius.color.bruin.100": "be0c1cb822e3f5bb0329be121b8e65080b33b423",
+        "logius.color.bruin.200": "96d6245e81363895314d6ac8860101e2f8379bd7",
+        "logius.color.bruin.300": "622900233fd0e4006de5ef71d187cb84d5798228",
+        "logius.color.donkerbruin.100": "2eb4f71b04fee77567e284333595ca47b7c84a9b",
+        "logius.color.donkerbruin.200": "fc56d4f0ad5122693e5a1ea3228eb91c26d0d1e8",
+        "logius.color.donkerbruin.300": "43235eebe3874ced3e98cee5f04f7854804beb0f",
+        "logius.color.geel.100": "5a4a32295e11f76c5e3f7feb3bc6fa8655cf72c1",
+        "logius.color.geel.200": "ce0729537c78ad10f948ef9d4d51219b083a46d1",
+        "logius.color.geel.300": "8b47bf0bb348c731ff682e0156fe7abd94408da0",
+        "logius.color.donkergeel.100": "d07d82f61787d8fb854eab6c4d81f889705050ba",
+        "logius.color.donkergeel.200": "9bff97097b6fdf10cf14caea8966b91cc90e5e84",
+        "logius.color.donkergeel.300": "8045ac3c2d14cf70e2b752dc038bd141bb599fa2",
+        "logius.color.donkergeel.400": "b6c66dbbe94376256cb1b7e5cedac1bece622bf6",
+        "logius.color.oranje.100": "2be436f4921221a6c5df75b062b38b72d919c121",
+        "logius.color.oranje.200": "593da09b41c2189b29bf9607c687661aacc0fb5a",
+        "logius.color.oranje.300": "99bc5bc669654c8f40841062514184ecd10a89b6",
+        "logius.color.oranje.400": "145ba3ef64a6d698fe179c3445b625cb43bc0548",
+        "logius.color.rood.100": "750be0484935cf2a4b2807378de8045d4402b6b7",
+        "logius.color.rood.200": "b04cb17d9a66346387fee757b8dd106b919f3fb9",
+        "logius.color.rood.300": "456b770c763935370364ff4e5dc6774cf6ab3849",
+        "logius.color.rood.400": "fa00dd26aceb43cdb910b611e9fabad9e67972c5",
+        "logius.color.roze.100": "1d1d26164ae738e24a9c577b35ff83f8f4e5eade",
+        "logius.color.roze.200": "6061509f0f96c38ecd4740483731462c434f64f7",
+        "logius.color.roze.300": "b377d85f17c12574827f00e75263d94b124392b2",
+        "logius.color.robijnrood.100": "7b32bb2fe53aefaea6ddefbbbdb16bdbc6036be8",
+        "logius.color.robijnrood.200": "058071683a4f8f684a76ffcdee959b1f51ebfc79",
+        "logius.color.robijnrood.300": "b0848bc312faa7883aab49786eafcd23b43272c8",
+        "logius.border-radius.default": "786415bf0273c9d4091d3b4681198454de83bb76",
+        "logius.border-radius.circle": "dcd3eb89fef5c2e2d38a9adce76f6c9eebf7ab04",
+        "logius.border-radius.none": "02ebe7d8e886124a7341a473a54ca6dde90090a3",
+        "logius.border-width.default": "e2a6fb652455199f9b7c2ca421b4702ea9e5ee9b",
+        "logius.border-width.m": "f8e7629312490067f3a58065253d489563f2a8b8",
+        "logius.border-width.none": "e562e2c60e70233179cfd06094c72c4dee06bcc2",
+        "logius.space.0-x": "b2ec99b81b9ea1e4e17ffc9697d638c25aeb91ad",
+        "logius.space.025-x": "a5524c1f74527147db24e38f7bf197092554b6d4",
+        "logius.space.05-x": "0cec53f8ac909b220b7e765385d29fb90f44e326",
+        "logius.space.1-x": "2bd12c14ad337a285cfcdbbc0edf4c0921e6fd31",
+        "logius.space.105-x": "bb76c0727c68eccda33efed12ac52314064761a7",
+        "logius.space.2-x": "302ea6b7913b35745f9b67766015affce9efe960",
+        "logius.space.3-x": "d6bbd58a484bc4d4f74f638627fb972e2bac2082",
+        "logius.space.4-x": "fd9bcd753ddd50fea2e9f19a9a40289f19f6a689",
+        "logius.space.5-x": "25c1e7e517b871461ec6ab593d8cdc887c083598",
+        "logius.space.6-x": "9b155ba0d896d2811c441e72d8a5312caca4f949",
+        "logius.space.7-x": "217a99b0bb764e9752dd0e5f16a6b066fc8db0f1"
+      },
+      "group": "core"
+    },
+    {
+      "id": "289334ed79ea6af5a4940971c76ba46ca067a04e",
+      "name": "default",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "default/semantic": "enabled",
+        "default/core": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:6:590",
+      "$figmaModeId": "6:21",
+      "$figmaVariableReferences": {
+        "logius.color.foreground": "d39a560c48592b795102d1e1749dca50fe24c478",
+        "logius.color.background": "14065bd82b9b47a45a8d715fac915cab132165a8",
+        "logius.color.border": "813a039ce354f30dc0a42961b3cef1cc4e622a77",
+        "logius.color.canvas": "3dd65a71eff1018a6f67acff980f7088634b00bf",
+        "logius.color.onEmphasis.foreground": "ca1305b79ba9bf642536ee08a9f150330da37a2e",
+        "logius.color.subdued.foreground": "5c5b2e51c92de23294a83f6ee1d00b7a710fa831",
+        "logius.color.subdued.background": "4d5cebd303b289640b4bd0f9a8c41b5b02597750",
+        "logius.color.subdued.border": "c0dd7074513e1287ea4613053537176c9c937b91",
+        "logius.color.hover.background": "85228b64f8487f57acce4c369e010977b36fa06c",
+        "logius.color.brand.default": "e82c7ed9af686e96fb1a57805f95814781edffdd",
+        "logius.color.brand.subdued": "ce0d2fe79b1d23c60481621b04ca75546638d1c5",
+        "logius.color.brand.hover": "8b613711591d96072d52ea7473876f2cd3fa4321",
+        "logius.color.feedback.success.default": "995818e77558dbe536d8e27b670e704ef400e336",
+        "logius.color.feedback.success.subdued": "6fa133c715737222c3cbf80741eccd78548e76a9",
+        "logius.color.feedback.info.default": "43c8fa49f0640efa98b0996862729530d9c24de7",
+        "logius.color.feedback.info.subdued": "7df47bf550884c1201ad758318efc28aaffda8c2",
+        "logius.color.feedback.error.default": "74b666c1209d624c323898168aa4f9179d867c77",
+        "logius.color.feedback.error.subdued": "972b05171dd626c3a90c7ef67c54acce0aa57855",
+        "logius.color.feedback.warning.default": "60bbf5158efe5bd87bcb8e51a2ed8480715c1315",
+        "logius.color.feedback.warning.subdued": "00962e57fe53080ec6f96ebeea7fbf0b15a66a7f",
+        "logius.space.icon-side": "404875f0b4efac40a05e3c6847afd77c54e5714a",
+        "logius.space.compensation-height.default": "d3ca06238523d38a60909bd2a2440848b78e8b1a",
+        "logius.space.compensation-height.small": "b125914f461bfbbed4777abf7acdde181774aa8a",
+        "logius.space.compensation-height.icon": "2f64f91fe963cf7bfb1b3b9ee22b10df0566fc18",
+        "logius.size.2xs": "bb4db1d80990ee49dc7b1940648591c0f176d5c4",
+        "logius.size.xs": "112f1959927d7f1172af6f9b193218acf74cd8d8",
+        "logius.size.s": "07488c68f76361ca76ba6813c866275bd259cca6",
+        "logius.size.m": "fba0f844dc0c2bab2d5a7800b460871a79c8e922",
+        "logius.icon-size.default": "64f2ba98dd68cc5247f7915e7eac57a199913348",
+        "logius.icon-size.large": "c3fb5a4e14427dfacececa07b5b7351302dd51e9"
+      },
+      "group": "semantic"
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "default/core",
+      "default/semantic",
+      "component/button",
+      "component/alert",
+      "component/forms",
+      "component/pagination",
+      "component/link",
+      "component/ontwikkeling/card",
+      "breakpoint/vp-md",
+      "breakpoint/vp-xs",
+      "dark-mode/semantic",
+      "dark-mode/component",
+      "MO/semantic",
+      "MO/component",
+      "DD/semantic",
+      "DD/component",
+      "DD/stepwizard",
+      "DD/header",
+      "Digitoegankelijk"
+    ]
+  }
+}
