@@ -1324,120 +1324,6 @@
       }
     }
   },
-  "viewport/xl/component/logo": {
-    "rhc": {
-      "logo": {
-        "image": {
-          "background-color": {
-            "value": "{lux.color.wit}",
-            "type": "color"
-          },
-          "inline-size": {
-            "value": "{rhc.size.lint}",
-            "type": "sizing"
-          },
-          "block-size": {
-            "value": "{rhc.size.2-lint}",
-            "type": "sizing"
-          },
-          "color": {
-            "value": "{lux.color.lintblauw.500}",
-            "type": "color"
-          }
-        },
-        "title": {
-          "font-weight": {
-            "value": "{lux.font-weight.bold}",
-            "type": "fontWeights"
-          },
-          "line-height": {
-            "value": "1.063rem",
-            "type": "lineHeights"
-          },
-          "font-size": {
-            "value": "0.913rem",
-            "type": "fontSizes"
-          },
-          "padding-block-start": {
-            "value": "3.125rem",
-            "type": "spacing"
-          }
-        },
-        "subtitle": {
-          "font-weight": {
-            "value": "{lux.font-weight.regular}",
-            "type": "fontWeights"
-          },
-          "line-height": {
-            "value": "1rem",
-            "type": "lineHeights"
-          },
-          "font-size": {
-            "value": "0.775rem",
-            "type": "fontSizes"
-          }
-        },
-        "column-gap": {
-          "value": "{rhc.size.quarter-lint}",
-          "type": "spacing"
-        },
-        "font-family": {
-          "value": "{rhc.font-family.primary}",
-          "type": "fontFamilies"
-        },
-        "color": {
-          "value": "{lux.color.lintblauw.500}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "viewport/xl/component/page-footer": {
-    "utrecht": {
-      "page-footer": {
-        "padding-block-start": {
-          "value": "{lux.space.600}",
-          "type": "spacing"
-        },
-        "padding-block-end": {
-          "value": "{lux.space.600}",
-          "type": "spacing"
-        },
-        "padding-inline-start": {
-          "value": "{lux.grid.margin}",
-          "type": "spacing"
-        },
-        "padding-inline-end": {
-          "value": "{lux.grid.margin}",
-          "type": "spacing"
-        },
-        "content": {
-          "column-gap": {
-            "value": "{lux.space.400}",
-            "type": "spacing"
-          },
-          "row-gap": {
-            "value": "{lux.space.400}",
-            "type": "spacing"
-          },
-          "max-inline-size": {
-            "value": "{lux.grid.max-inline-size}",
-            "type": "sizing"
-          }
-        }
-      }
-    },
-    "figma": {
-      "page-footer": {
-        "column": {
-          "max-inline-size": {
-            "value": "400px",
-            "type": "sizing"
-          }
-        }
-      }
-    }
-  },
   "component/utrecht/alert": {
     "utrecht": {
       "alert": {
@@ -3879,6 +3765,120 @@
       }
     }
   },
+  "viewport/xl/component/logo": {
+    "rhc": {
+      "logo": {
+        "image": {
+          "background-color": {
+            "value": "{lux.color.wit}",
+            "type": "color"
+          },
+          "inline-size": {
+            "value": "{rhc.size.lint}",
+            "type": "sizing"
+          },
+          "block-size": {
+            "value": "{rhc.size.2-lint}",
+            "type": "sizing"
+          },
+          "color": {
+            "value": "{lux.color.lintblauw.500}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "font-weight": {
+            "value": "{lux.font-weight.bold}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1.063rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.913rem",
+            "type": "fontSizes"
+          },
+          "padding-block-start": {
+            "value": "3.125rem",
+            "type": "spacing"
+          }
+        },
+        "subtitle": {
+          "font-weight": {
+            "value": "{lux.font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.775rem",
+            "type": "fontSizes"
+          }
+        },
+        "column-gap": {
+          "value": "{rhc.size.quarter-lint}",
+          "type": "spacing"
+        },
+        "font-family": {
+          "value": "{rhc.font-family.primary}",
+          "type": "fontFamilies"
+        },
+        "color": {
+          "value": "{lux.color.lintblauw.500}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "viewport/xl/component/page-footer": {
+    "utrecht": {
+      "page-footer": {
+        "padding-block-start": {
+          "value": "{lux.space.600}",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "{lux.space.600}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{lux.grid.margin}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{lux.grid.margin}",
+          "type": "spacing"
+        },
+        "content": {
+          "column-gap": {
+            "value": "{lux.space.400}",
+            "type": "spacing"
+          },
+          "row-gap": {
+            "value": "{lux.space.400}",
+            "type": "spacing"
+          },
+          "max-inline-size": {
+            "value": "{lux.grid.max-inline-size}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "figma": {
+      "page-footer": {
+        "column": {
+          "max-inline-size": {
+            "value": "400px",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  },
   "viewport/xl/common/font": {
     "lux": {
       "font-size": {
@@ -4477,8 +4477,6 @@
       "component/lux/radio-group",
       "component/lux/section",
       "component/rhc/logo",
-      "viewport/xl/component/logo",
-      "viewport/xl/component/page-footer",
       "component/utrecht/alert",
       "component/utrecht/button",
       "component/utrecht/column-layout",
@@ -4502,6 +4500,8 @@
       "component/utrecht/button-group",
       "component/utrecht/checkbox",
       "component/utrecht/textarea",
+      "viewport/xl/component/logo",
+      "viewport/xl/component/page-footer",
       "viewport/xl/common/font",
       "viewport/xl/common/grid",
       "viewport/xl/common/sizing",
