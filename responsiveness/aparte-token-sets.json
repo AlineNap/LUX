@@ -803,6 +803,32 @@
       }
     }
   },
+  "core/sizing-lint": {
+    "rhc": {
+      "size": {
+        "quarter-lint": {
+          "value": "12px",
+          "type": "dimension"
+        },
+        "half-lint": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "lint": {
+          "value": "48px",
+          "type": "dimension"
+        },
+        "2-lint": {
+          "value": "96px",
+          "type": "dimension"
+        },
+        "3-lint": {
+          "value": "1440px",
+          "type": "dimension"
+        }
+      }
+    }
+  },
   "core/spacing": {
     "lux": {
       "space": {
@@ -1120,7 +1146,7 @@
           "type": "spacing"
         },
         "max-inline-size": {
-          "value": "82.5rem",
+          "value": "77.5rem",
           "type": "sizing"
         }
       }
@@ -1128,11 +1154,15 @@
     "figma": {
       "grid": {
         "6-columns": {
-          "value": "604px",
+          "value": "343px",
           "type": "sizing"
         },
         "8-columns": {
-          "value": "816px",
+          "value": "343px",
+          "type": "sizing"
+        },
+        "3-columns": {
+          "value": "343px",
           "type": "sizing"
         }
       }
@@ -1204,19 +1234,19 @@
           "type": "color"
         },
         "padding-block-end": {
-          "value": "{lux.space.400}",
+          "value": "{lux.space.300}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{lux.space.400}",
+          "value": "{lux.space.300}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{lux.space.400}",
+          "value": "{lux.space.200}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{lux.space.400}",
+          "value": "{lux.space.200}",
           "type": "spacing"
         },
         "row-gap": {
@@ -1226,6 +1256,74 @@
         "border-radius": {
           "value": "{lux.border-radius.default}",
           "type": "borderRadius"
+        }
+      }
+    }
+  },
+  "component/rhc/logo": {
+    "rhc": {
+      "logo": {
+        "image": {
+          "background-color": {
+            "value": "{lux.color.wit}",
+            "type": "color"
+          },
+          "inline-size": {
+            "value": "{rhc.size.lint} * 0.9",
+            "type": "sizing"
+          },
+          "block-size": {
+            "value": "{rhc.size.2-lint} * 0.9",
+            "type": "sizing"
+          },
+          "color": {
+            "value": "{lux.color.lintblauw.500}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "font-weight": {
+            "value": "{lux.font-weight.bold}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1.063rem  * 0.9",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.913rem  * 0.9",
+            "type": "fontSizes"
+          },
+          "padding-block-start": {
+            "value": "3.125rem  * 0.9",
+            "type": "spacing"
+          }
+        },
+        "subtitle": {
+          "font-weight": {
+            "value": "{lux.font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1rem  * 0.9",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.775rem  * 0.9",
+            "type": "fontSizes"
+          }
+        },
+        "column-gap": {
+          "value": "{rhc.size.quarter-lint}  * 0.9",
+          "type": "spacing"
+        },
+        "font-family": {
+          "value": "{rhc.font-family.primary}",
+          "type": "fontFamilies"
+        },
+        "color": {
+          "value": "{lux.color.lintblauw.500}",
+          "type": "color"
         }
       }
     }
@@ -2537,11 +2635,7 @@
           "type": "borderWidth"
         },
         "content": {
-          "column-gap": {
-            "value": "{lux.space.400}",
-            "type": "spacing"
-          },
-          "row-gap": {
+          "gap": {
             "value": "{lux.space.400}",
             "type": "spacing"
           },
@@ -2560,7 +2654,7 @@
       "page-footer": {
         "column": {
           "max-inline-size": {
-            "value": "200px",
+            "value": "300px",
             "type": "sizing"
           }
         }
@@ -3769,6 +3863,22 @@
           "type": "spacing"
         }
       }
+    },
+    "figma": {
+      "grid": {
+        "6-columns": {
+          "value": "604px",
+          "type": "sizing"
+        },
+        "8-columns": {
+          "value": "816px",
+          "type": "sizing"
+        },
+        "3-columns": {
+          "value": "286px",
+          "type": "sizing"
+        }
+      }
     }
   },
   "viewport/xl/common/sizing": {
@@ -3787,6 +3897,108 @@
         "inset-block-start": {
           "value": "0.375rem",
           "type": "spacing"
+        }
+      }
+    }
+  },
+  "viewport/xl/component/section": {
+    "lux": {
+      "section": {
+        "background-color": {
+          "value": "{lux.color.background.default}",
+          "type": "color"
+        },
+        "padding-block-end": {
+          "value": "{lux.space.400}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{lux.space.400}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{lux.space.400}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{lux.space.400}",
+          "type": "spacing"
+        },
+        "row-gap": {
+          "value": "{lux.space.400}",
+          "type": "spacing"
+        },
+        "border-radius": {
+          "value": "{lux.border-radius.default}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  },
+  "viewport/xl/component/logo": {
+    "rhc": {
+      "logo": {
+        "image": {
+          "background-color": {
+            "value": "{lux.color.wit}",
+            "type": "color"
+          },
+          "inline-size": {
+            "value": "{rhc.size.lint}",
+            "type": "sizing"
+          },
+          "block-size": {
+            "value": "{rhc.size.2-lint}",
+            "type": "sizing"
+          },
+          "color": {
+            "value": "{lux.color.lintblauw.500}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "font-weight": {
+            "value": "{lux.font-weight.bold}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1.063rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.913rem",
+            "type": "fontSizes"
+          },
+          "padding-block-start": {
+            "value": "3.125rem",
+            "type": "spacing"
+          }
+        },
+        "subtitle": {
+          "font-weight": {
+            "value": "{lux.font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.775rem",
+            "type": "fontSizes"
+          }
+        },
+        "column-gap": {
+          "value": "{rhc.size.quarter-lint}",
+          "type": "spacing"
+        },
+        "font-family": {
+          "value": "{rhc.font-family.primary}",
+          "type": "fontFamilies"
+        },
+        "color": {
+          "value": "{lux.color.lintblauw.500}",
+          "type": "color"
         }
       }
     }
@@ -3821,6 +4033,16 @@
           },
           "max-inline-size": {
             "value": "{lux.grid.max-inline-size}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "figma": {
+      "page-footer": {
+        "column": {
+          "max-inline-size": {
+            "value": "400px",
             "type": "sizing"
           }
         }
@@ -4299,6 +4521,7 @@
       "core/border",
       "core/color",
       "core/font",
+      "core/sizing-lint",
       "core/spacing",
       "common/color",
       "common/font",
@@ -4307,6 +4530,7 @@
       "common/spacing",
       "component/lux/radio-group",
       "component/lux/section",
+      "component/rhc/logo",
       "component/utrecht/alert",
       "component/utrecht/button",
       "component/utrecht/column-layout",
@@ -4334,6 +4558,8 @@
       "viewport/xl/common/grid",
       "viewport/xl/common/sizing",
       "viewport/xl/common/spacing",
+      "viewport/xl/component/section",
+      "viewport/xl/component/logo",
       "viewport/xl/component/page-footer",
       "viewport/md/common/font",
       "viewport/md/common/grid",
