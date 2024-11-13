@@ -1146,7 +1146,7 @@
           "type": "spacing"
         },
         "max-inline-size": {
-          "value": "82.5rem",
+          "value": "77.5rem",
           "type": "sizing"
         }
       }
@@ -1159,6 +1159,10 @@
         },
         "8-columns": {
           "value": "816px",
+          "type": "sizing"
+        },
+        "3-columns": {
+          "value": "286px",
           "type": "sizing"
         }
       }
