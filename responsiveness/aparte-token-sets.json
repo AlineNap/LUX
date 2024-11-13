@@ -2537,11 +2537,7 @@
           "type": "borderWidth"
         },
         "content": {
-          "column-gap": {
-            "value": "{lux.space.400}",
-            "type": "spacing"
-          },
-          "row-gap": {
+          "gap": {
             "value": "{lux.space.400}",
             "type": "spacing"
           },
@@ -2560,7 +2556,7 @@
       "page-footer": {
         "column": {
           "max-inline-size": {
-            "value": "200px",
+            "value": "300px",
             "type": "sizing"
           }
         }
@@ -3821,6 +3817,16 @@
           },
           "max-inline-size": {
             "value": "{lux.grid.max-inline-size}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "figma": {
+      "page-footer": {
+        "column": {
+          "max-inline-size": {
+            "value": "400px",
             "type": "sizing"
           }
         }
