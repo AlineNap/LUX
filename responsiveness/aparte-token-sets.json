@@ -3787,6 +3787,74 @@
       }
     }
   },
+  "component/rhc/logo": {
+    "rhc": {
+      "logo": {
+        "image": {
+          "background-color": {
+            "value": "{rhc.color.wit}",
+            "type": "color"
+          },
+          "inline-size": {
+            "value": "{rhc.size.lint}",
+            "type": "sizing"
+          },
+          "block-size": {
+            "value": "{rhc.size.2-lint}",
+            "type": "sizing"
+          },
+          "color": {
+            "value": "{rhc.color.lintblauw.500}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "font-weight": {
+            "value": "600",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1.063rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.913rem",
+            "type": "fontSizes"
+          },
+          "padding-block-start": {
+            "value": "3.125rem",
+            "type": "spacing"
+          }
+        },
+        "subtitle": {
+          "font-weight": {
+            "value": "{rhc.font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "1rem",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "0.775rem",
+            "type": "fontSizes"
+          }
+        },
+        "column-gap": {
+          "value": "{rhc.size.quarter-lint}",
+          "type": "spacing"
+        },
+        "font-family": {
+          "value": "{rhc.font-family.primary}",
+          "type": "fontFamilies"
+        },
+        "color": {
+          "value": "{rhc.color.lintblauw.500}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "viewport/xl/component/page-footer": {
     "utrecht": {
       "page-footer": {
@@ -3958,7 +4026,8 @@
         "core/font": "enabled",
         "core/color": "enabled",
         "core/spacing": "enabled",
-        "core/border": "enabled"
+        "core/border": "enabled",
+        "component/rhc/logo": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:7:1003",
       "$figmaModeId": "7:30",
@@ -4142,7 +4211,8 @@
         "common/grid": "enabled",
         "common/spacing": "enabled",
         "common/sizing": "enabled",
-        "common/color": "enabled"
+        "common/color": "enabled",
+        "component/rhc/logo": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:46:7",
       "$figmaModeId": "46:0",
@@ -4182,7 +4252,8 @@
         "component/utrecht/checkbox": "enabled",
         "component/utrecht/page-footer": "enabled",
         "component/utrecht/paragraph": "enabled",
-        "component/utrecht/link": "enabled"
+        "component/utrecht/link": "enabled",
+        "component/rhc/logo": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:1503:3470",
       "$figmaModeId": "1503:2",
@@ -4340,6 +4411,7 @@
       "viewport/xl/common/grid",
       "viewport/xl/common/sizing",
       "viewport/xl/common/spacing",
+      "component/rhc/logo",
       "viewport/xl/component/page-footer",
       "viewport/md/common/font",
       "viewport/md/common/grid",
