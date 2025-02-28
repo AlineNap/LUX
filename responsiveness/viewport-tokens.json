@@ -788,9 +788,7 @@
             "type": "fontSizes"
           }
         }
-      }
-    },
-    "rhc": {
+      },
       "font-family": {
         "primary": {
           "value": "RijksoverheidSansWebText, Arial, Verdana, sans-serif",
@@ -1178,7 +1176,7 @@
             "type": "sizing"
           },
           "line-height": {
-            "value": "{lux.line-height.body.default}",
+            "value": "{lux.line-height.large-vp.body.default}",
             "type": "sizing"
           }
         },
@@ -1318,7 +1316,7 @@
           "type": "spacing"
         },
         "font-family": {
-          "value": "{rhc.font-family.primary}",
+          "value": "{lux.font-family.primary}",
           "type": "fontFamilies"
         },
         "color": {
@@ -1485,11 +1483,11 @@
             "type": "fontWeights"
           },
           "line-height": {
-            "value": "{lux.line-height.heading.level-4}",
+            "value": "{lux.line-height.large-vp.heading.level-4}",
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{lux.font-size.heading.level-4}",
+            "value": "{lux.font-size.large-vp.heading.level-4}",
             "type": "fontSizes"
           }
         }
@@ -2028,11 +2026,11 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "background-color": {
@@ -2055,7 +2053,7 @@
             "type": "fontFamilies"
           },
           "font-size": {
-            "value": "{lux.font-size.heading.level-3}",
+            "value": "{lux.font-size.large-vp.heading.level-3}",
             "type": "fontSizes"
           },
           "font-weight": {
@@ -2063,7 +2061,7 @@
             "type": "fontWeights"
           },
           "line-height": {
-            "value": "{lux.line-height.heading.level-3}",
+            "value": "{lux.line-height.large-vp.heading.level-3}",
             "type": "lineHeights"
           },
           "disabled": {
@@ -2143,11 +2141,11 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "invalid": {
@@ -2196,7 +2194,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -2233,7 +2231,7 @@
           "type": "spacing"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "border-width": {
@@ -2291,7 +2289,7 @@
           "type": "fontWeights"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "checkbox": {
@@ -2581,11 +2579,11 @@
           "type": "fontFamilies"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "text-decoration": {
@@ -2749,11 +2747,11 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         }
       }
@@ -2989,7 +2987,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -3071,7 +3069,7 @@
     "todo": {
       "select": {
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "icon": {
@@ -3119,7 +3117,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -3127,7 +3125,7 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "max-inline-size": {
@@ -3759,11 +3757,11 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "{lux.line-height.body.default}",
+          "value": "{lux.line-height.large-vp.body.default}",
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{lux.font-size.body.default}",
+          "value": "{lux.font-size.large-vp.body.default}",
           "type": "fontSizes"
         }
       }
@@ -3772,78 +3770,82 @@
   "viewport/xl/common/font": {
     "lux": {
       "font-size": {
-        "heading": {
-          "level-1": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.font-size.large-scale.xl}",
-            "type": "fontSizes"
+        "large-vp": {
+          "heading": {
+            "level-1": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.font-size.large-scale.xl}",
+              "type": "fontSizes"
+            },
+            "level-2": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.font-size.large-scale.lg}",
+              "type": "fontSizes"
+            },
+            "level-3": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.font-size.large-scale.md}",
+              "type": "fontSizes"
+            },
+            "level-4": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.font-size.large-scale.sm}",
+              "type": "fontSizes"
+            }
           },
-          "level-2": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.font-size.large-scale.lg}",
-            "type": "fontSizes"
-          },
-          "level-3": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.font-size.large-scale.md}",
-            "type": "fontSizes"
-          },
-          "level-4": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.font-size.large-scale.sm}",
-            "type": "fontSizes"
-          }
-        },
-        "body": {
-          "default": {
-            "value": "{lux.font-size.large-scale.sm}",
-            "type": "fontSizes"
-          },
-          "large": {
-            "value": "{lux.font-size.large-scale.md}",
-            "type": "fontSizes"
-          },
-          "small": {
-            "value": "{lux.font-size.large-scale.xs}",
-            "type": "fontSizes"
+          "body": {
+            "default": {
+              "value": "{lux.font-size.large-scale.sm}",
+              "type": "fontSizes"
+            },
+            "large": {
+              "value": "{lux.font-size.large-scale.md}",
+              "type": "fontSizes"
+            },
+            "small": {
+              "value": "{lux.font-size.large-scale.xs}",
+              "type": "fontSizes"
+            }
           }
         }
       },
       "line-height": {
-        "heading": {
-          "level-1": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.line-height.large-scale.xl}",
-            "type": "lineHeights"
+        "large-vp": {
+          "heading": {
+            "level-1": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.line-height.large-scale.xl}",
+              "type": "lineHeights"
+            },
+            "level-2": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.line-height.large-scale.lg}",
+              "type": "lineHeights"
+            },
+            "level-3": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.line-height.large-scale.md}",
+              "type": "lineHeights"
+            },
+            "level-4": {
+              "parent": "viewport (beta)/xl",
+              "value": "{lux.line-height.large-scale.sm}",
+              "type": "lineHeights"
+            }
           },
-          "level-2": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.line-height.large-scale.lg}",
-            "type": "lineHeights"
-          },
-          "level-3": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.line-height.large-scale.md}",
-            "type": "lineHeights"
-          },
-          "level-4": {
-            "parent": "viewport (beta)/xl",
-            "value": "{lux.line-height.large-scale.sm}",
-            "type": "lineHeights"
-          }
-        },
-        "body": {
-          "default": {
-            "value": "{lux.line-height.large-scale.sm}",
-            "type": "lineHeights"
-          },
-          "large": {
-            "value": "{lux.line-height.large-scale.md}",
-            "type": "lineHeights"
-          },
-          "small": {
-            "value": "{lux.line-height.large-scale.xs}",
-            "type": "lineHeights"
+          "body": {
+            "default": {
+              "value": "{lux.line-height.large-scale.sm}",
+              "type": "lineHeights"
+            },
+            "large": {
+              "value": "{lux.line-height.large-scale.md}",
+              "type": "lineHeights"
+            },
+            "small": {
+              "value": "{lux.line-height.large-scale.xs}",
+              "type": "lineHeights"
+            }
           }
         }
       }
@@ -3897,6 +3899,108 @@
         "inset-block-start": {
           "value": "0.375rem",
           "type": "spacing"
+        }
+      }
+    }
+  },
+  "viewport/xl/component/utrecht/heading": {
+    "utrecht": {
+      "large-vp": {
+        "heading-1": {
+          "line-height": {
+            "value": "{lux.line-height.large-vp.heading.level-1}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.large-vp.heading.level-1}",
+            "type": "fontSizes"
+          }
+        },
+        "heading-2": {
+          "line-height": {
+            "value": "{lux.line-height.large-vp.heading.level-2}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.large-vp.heading.level-2}",
+            "type": "fontSizes"
+          }
+        },
+        "heading-3": {
+          "line-height": {
+            "value": "{lux.line-height.large-vp.heading.level-3}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.large-vp.heading.level-3}",
+            "type": "fontSizes"
+          }
+        },
+        "heading-4": {
+          "line-height": {
+            "value": "{lux.line-height.large-vp.heading.level-4}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.large-vp.heading.level-4}",
+            "type": "fontSizes"
+          }
+        },
+        "heading-5": {
+          "line-height": {
+            "value": "{lux.line-height.heading.level-5}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.heading.level-5}",
+            "type": "fontSizes"
+          }
+        },
+        "heading-6": {
+          "line-height": {
+            "value": "{lux.line-height.heading.level-5}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{lux.font-size.heading.level-5}",
+            "type": "fontSizes"
+          }
+        }
+      }
+    }
+  },
+  "viewport/xl/component/utrecht/paragraph": {
+    "utrecht": {
+      "paragraph": {
+        "large-vp": {
+          "font-size": {
+            "value": "{lux.font-size.large-vp.body.default}",
+            "type": "fontSizes"
+          },
+          "line-height": {
+            "value": "{lux.line-height.large-vp.body.default}",
+            "type": "lineHeights"
+          },
+          "lead": {
+            "font-size": {
+              "value": "{lux.font-size.large-vp.body.default}",
+              "type": "fontSizes"
+            },
+            "line-height": {
+              "value": "{lux.line-height.large-vp.body.large}",
+              "type": "lineHeights"
+            }
+          },
+          "small": {
+            "font-size": {
+              "value": "{lux.font-size.large-vp.body.small}",
+              "type": "fontSizes"
+            },
+            "line-height": {
+              "value": "{lux.line-height.large-vp.body.small}",
+              "type": "lineHeights"
+            }
+          }
         }
       }
     }
@@ -3993,7 +4097,7 @@
           "type": "spacing"
         },
         "font-family": {
-          "value": "{rhc.font-family.primary}",
+          "value": "{lux.font-family.primary}",
           "type": "fontFamilies"
         },
         "color": {
@@ -4206,7 +4310,9 @@
         "component/utrecht/text-input": "enabled",
         "component/utrecht/button-group": "enabled",
         "component/utrecht/checkbox": "enabled",
-        "component/utrecht/textarea": "enabled"
+        "component/utrecht/textarea": "enabled",
+        "viewport/xl/component/utrecht/paragraph": "disabled",
+        "viewport/xl/component/utrecht/heading": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:7:1003",
       "$figmaModeId": "7:30",
@@ -4376,8 +4482,8 @@
         "lux.color.lintblauw.300": "4321191d649eacc95c126cad70aa95de82d86636",
         "lux.color.lintblauw.400": "bd9f98c8120abd16c856aed0412f637c9f096852",
         "lux.color.lintblauw.500": "6957f755d942aa22fbd7ab8f9e5fd1d886f1bbe5",
-        "rhc.font-family.primary": "062927187b4fee426138e2779e2cfd360e2f1bbc",
-        "rhc.font-family.secondary": "8c34f1b6fde8e6daf7a168815c48ce2d427fc6fc"
+        "lux.font-family.primary": "062927187b4fee426138e2779e2cfd360e2f1bbc",
+        "lux.font-family.secondary": "8c34f1b6fde8e6daf7a168815c48ce2d427fc6fc"
       },
       "group": "responsive"
     },
@@ -4428,7 +4534,9 @@
         "viewport/xl/common/spacing": "enabled",
         "viewport/xl/component/section": "enabled",
         "viewport/xl/component/page-footer": "enabled",
-        "viewport/xl/component/logo": "enabled"
+        "viewport/xl/component/logo": "enabled",
+        "viewport/xl/component/utrecht/paragraph": "disabled",
+        "viewport/xl/component/utrecht/heading": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:46:7",
       "$figmaModeId": "46:0",
@@ -4482,6 +4590,8 @@
       "viewport/xl/common/grid",
       "viewport/xl/common/sizing",
       "viewport/xl/common/spacing",
+      "viewport/xl/component/utrecht/heading",
+      "viewport/xl/component/utrecht/paragraph",
       "viewport/xl/component/section",
       "viewport/xl/component/logo",
       "viewport/xl/component/page-footer",
